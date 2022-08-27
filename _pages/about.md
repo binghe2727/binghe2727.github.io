@@ -17,6 +17,7 @@ redirect_from:
 - Before joining Georgia Tech, I was advised by Prof. Lionel M. Ni, Prof. Lei Chen and Dr. Min Gao 
   at the Hong Kong University of Science and Technology. 
   I got my bachelor from University of Electronic Science and Technology of China.
+- Contact: bhe46@gatech.edu
 
 Experiences
 ====
