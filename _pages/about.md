@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-About Me
-====
 - I am a forth-year CS PhD student 
   co-advised by Prof. Srijan Kumar and Prof. Mustaque Ahamad 
   at Georgia Institute of Technology.
@@ -23,7 +21,7 @@ Experiences
 ====
 - 2021.05 - 2021.08: Amazon, San Diego, California
   * Applied Scientist Intern, Machine Learning Accelerator
-  * Project: Buer|Seller Fraud Detection by Graph Neural Network
+  * Project: Buyer and Seller Fraud Detection by Graph Neural Network
 - 2021.05 - 2021.08: Amazon, San Diego, California
   * Applied Scientist Intern, Machine Learning Accelerator
   * Project: Buyer Risk Evaluation by Dynamic Graph Neural Network
