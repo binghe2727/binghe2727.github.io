@@ -23,10 +23,12 @@ redirect_from:
 - 2022.05 - 2022.08: Amazon, San Diego, California
   * Applied Scientist Intern, Machine Learning Accelerator
   * Project: Buyer Risk Evaluation by Dynamic Graph Neural Network
+  * Manager: Dr. Na Zhang, Mentors: Dr. Shobeir Fakhraei
 - 2021.05 - 2021.08: Amazon, San Diego, California
   * Applied Scientist Intern, Machine Learning Accelerator
   * Project: Buyer and Seller Fraud Detection by Graph Neural Network
-  
+  * Manager: Dr. Chris Jones, Mentors:   
+
 # Recent Publications
 - Bing He, Mustaque Ahamad, Srijan Kumar, "PETGEN: Personalized Text Generation Attack on Deep
 Sequence Embedding-based Classification Models", ACM SIGKDD’21
