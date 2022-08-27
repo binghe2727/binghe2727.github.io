@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Bing He"
+title                    : # "Bing He"
 title_separator          : "-"
 name                     : &name "Bing He"
 description              : &description "CS PhD student at Georgia Tech"
