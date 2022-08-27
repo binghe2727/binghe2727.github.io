@@ -9,7 +9,8 @@ redirect_from:
 ---
 
 - I am a forth-year CS PhD student 
-  co-advised by Prof. Srijan Kumar and Prof. Mustaque Ahamad 
+  co-advised by [Prof. Srijan Kumar](https://faculty.cc.gatech.edu/~srijan/) and 
+  [Prof. Mustaque Ahamad](https://www.cc.gatech.edu/people/mustaque-ahamad) 
   at Georgia Institute of Technology.
 - My research interests include machine learning, natural language process, and graph mining 
   with application in misinformation, hate speech, fraud and risk domain.
