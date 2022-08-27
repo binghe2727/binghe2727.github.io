@@ -21,13 +21,13 @@ redirect_from:
 
 Experiences
 ====
+- 2022.05 - 2022.08: Amazon, San Diego, California
+  * Applied Scientist Intern, Machine Learning Accelerator
+  * Project: Buyer Risk Evaluation by Dynamic Graph Neural Network
 - 2021.05 - 2021.08: Amazon, San Diego, California
   * Applied Scientist Intern, Machine Learning Accelerator
   * Project: Buyer and Seller Fraud Detection by Graph Neural Network
-- 2021.05 - 2021.08: Amazon, San Diego, California
-  * Applied Scientist Intern, Machine Learning Accelerator
-  * Project: Buyer Risk Evaluation by Dynamic Graph Neural Network
-
+  
 Recent Publications
 ====
 - Bing He, Mustaque Ahamad, Srijan Kumar, "PETGEN: Personalized Text Generation Attack on Deep
