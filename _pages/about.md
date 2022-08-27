@@ -33,9 +33,9 @@ Sequence Embedding-based Classification Models", ACM SIGKDD’21
 - Bing He, Caleb Ziems, Sandeep Soni, Naren Ramakrishnan, Diyi Yang, Srijan Kumar, "Racism is a
 virus: Anti-asian Hate and Counterspeech in Social Media during the Covid-19 Crisis", IEEE/ACM
 ASONAM’21
-- Nicholas Micallef∗, Bing He∗, Srijan Kumar, Mustaque Ahamad, Nasir Memon, "The Role of the Crowd
+- Nicholas Micallef, Bing He, Srijan Kumar, Mustaque Ahamad, Nasir Memon, "The Role of the Crowd
 in Countering Misinformation: A Case Study of the COVID-19 Infodemic", IEEE BigData’20 (∗ equal
-contribution)
+contribution as the co-first authors)
 
 
 
