@@ -46,5 +46,5 @@ MAISoN 2020, TTO 2020, ICWSM 2020,
 IEEE ICPADS 2018, 
 ACM CIKM 2017
 
-### I am open to peer review in the field of machine learning with its application in misinformation, social network analysis, and etc.
+### I am open to peer review in the field of machine learning and data mining with its application in misinformation, fake news, social network analysis, and etc.
 
