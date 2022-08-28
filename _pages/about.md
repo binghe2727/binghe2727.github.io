@@ -8,12 +8,12 @@ redirect_from:
   - /about.html
 ---
 
-- I am a forth-year CS PhD student 
+- I am a fourth-year CS PhD student 
   co-advised by [Prof. Srijan Kumar](https://faculty.cc.gatech.edu/~srijan/) and 
   [Prof. Mustaque Ahamad](https://www.cc.gatech.edu/people/mustaque-ahamad) 
-  at Georgia Institute of Technology.
+  at the Georgia Institute of Technology.
 - My research interests include machine learning, natural language process, and graph mining 
-  with application in misinformation, hate speech, user fraud and risk domain.
+  with applications in misinformation, hate speech, user fraud and risk domain.
 - Before joining Georgia Tech, I was advised by Prof. Lionel M. Ni, Prof. Lei Chen and Dr. Min Gao 
   at the Hong Kong University of Science and Technology. 
   I got my bachelor from University of Electronic Science and Technology of China.
@@ -27,7 +27,7 @@ redirect_from:
 - 2021.05 - 2021.08: Amazon, San Diego, California
   * Applied Scientist Intern, Machine Learning Accelerator
   * Project: Buyer and Seller Fraud Detection by Graph Neural Network
-  * Manager: Dr. Chris Jones, Mentors:   
+  * Manager: Dr. Chris Jones, Mentors: Ms. Veena Padmanabhan
 
 # Recent Publications
 - Bing He, Mustaque Ahamad, Srijan Kumar, "PETGEN: Personalized Text Generation Attack on Deep
