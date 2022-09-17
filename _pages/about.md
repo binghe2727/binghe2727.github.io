@@ -51,5 +51,5 @@ MAISoN 2020, TTO 2020, ICWSM 2020,
 IEEE ICPADS 2018, 
 ACM CIKM 2017
 
-#### I am open to peer review in the field of machine learning, natural language processing, and data mining with its applications in misinformation, fake news, social network analysis, and etc.
-#### I am always open to collaborations, both academia and industry. If you have some interesting ideas, feel free to contact me! Let's work together to create a safer online ecosystem.
+### I am open to peer review in the field of machine learning, natural language processing, and data mining with its applications in misinformation, fake news, social network analysis, and etc.
+### I am always open to collaborations, both academia and industry. If you have some interesting ideas, feel free to contact me! Let's work together to create a safer online ecosystem.
