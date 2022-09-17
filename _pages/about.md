@@ -11,7 +11,7 @@ redirect_from:
 - I am a fourth-year CS PhD student 
   co-advised by [Prof. Srijan Kumar](https://faculty.cc.gatech.edu/~srijan/) and 
   [Prof. Mustaque Ahamad](https://www.cc.gatech.edu/people/mustaque-ahamad) 
-  at (the Georgia Institute of Technology)[https://www.gatech.edu/].
+  at the [Georgia Institute of Technology](https://www.gatech.edu/).
 - My research goal is to **develop advanced computational methods 
   to enhance the safety and integrity for web users and communities**.
 - My research interests include **machine learning, natural language process, and graph mining 
