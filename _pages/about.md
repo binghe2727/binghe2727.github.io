@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Bing He"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -15,10 +15,10 @@ redirect_from:
 - My research goal is to **develop advanced computational methods 
   to enhance the safety and integrity for web users and communities**.
 - My research interests include **machine learning, natural language process, and graph mining 
-  with applications in misinformation, hate speech, user fraud and risk domain**.
+  with applications in misinformation, hate speech, fake news, user fraud and user risk**.
 - Before joining Georgia Tech, I was advised by [Prof. Lionel M. Ni](https://www.cse.ust.hk/~ni/), [Prof. Lei Chen](https://cse.hkust.edu.hk/~leichen/) and Dr. Min Gao 
   at the Hong Kong University of Science and Technology. 
-  I got my bachelor from University of Electronic Science and Technology of China.
+  I got my bachelor from the University of Electronic Science and Technology of China.
 - Contact: bhe46@gatech.edu
 
 # Experiences
@@ -30,6 +30,12 @@ redirect_from:
   * **Applied Scientist Intern**, Machine Learning Accelerator
   * Project: Buyer and Seller Fraud Detection by Graph Neural Network
   * Manager: Dr. Chris Jones, Mentors: Ms. Veena Padmanabhan
+
+- 2019.08 - Present: **Georgia Institute of Technology**, Atlanta, Georgia
+  * **Graduate Research Assistant**, School of Computer Science
+  * Project: Fraud Detection and Attack, Misinformation/Hate-Speech Detection and Mitigation
+  * Advisors: Prof. Srijan Kumar & Prof. Mustaque Ahamad
+
 
 # Recent Publications
 - **Bing He**, Mustaque Ahamad, Srijan Kumar, "PETGEN: Personalized Text Generation Attack on Deep
@@ -51,5 +57,5 @@ MAISoN 2020, TTO 2020, AAAI ICWSM 2020,
 IEEE ICPADS 2018, 
 ACM CIKM 2017
 
-### I am open to peer review in the field of machine learning, natural language processing, and data mining with its applications in misinformation, fake news, social network analysis, and etc.
-### I am always open to collaborations, both academia and industry. If you have some interesting ideas, feel free to contact me! Let's work together to create a safer online ecosystem.
+### I am open to peer reviews in the field of machine learning, natural language processing, and graph mining with its applications in misinformation, fake news, social network analysis, and etc.
+### I am always open to collaborations, both academia and industry. If you have some interesting ideas or want to have a chat, feel free to contact me! Let's work together to create a safer online ecosystem.
