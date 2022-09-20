@@ -24,7 +24,7 @@ redirect_from:
 # Experiences
 - 2022.05 - 2022.08: **Amazon**, San Diego, California
   * **Applied Scientist Intern**, Machine Learning Accelerator
-  * Project: Buyer Risk Evaluation by Dynamic Graph Neural Network
+  * Project: Buyer Risk Assessment by Dynamic Graph Neural Network
   * Manager: Dr. Na Zhang, Mentors: Dr. Shobeir Fakhraei
 - 2021.05 - 2021.08: **Amazon**, San Diego, California
   * **Applied Scientist Intern**, Machine Learning Accelerator
