@@ -33,7 +33,10 @@ redirect_from:
 
 - 2019.08 - Present: **Georgia Institute of Technology**, Atlanta, Georgia
   * **Graduate Research Assistant**, School of Computer Science
-  * Project: Fraud Detection and Attack, Misinformation/Hate-Speech Detection and Mitigation
+  * Projects: 
+    * Hate and Counter Speech Text and User Network Analysis during the COVID-19 pandemic
+    * Deep Sequence Embedding-based Fraud Detection and Attack by Adversarial Text Generation
+    * Misinformation Detection and Mitigation on Twitter via Text Classification and Generation 
   * Advisors: Prof. Srijan Kumar & Prof. Mustaque Ahamad
 
 
