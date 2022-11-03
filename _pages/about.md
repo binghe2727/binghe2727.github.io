@@ -22,6 +22,13 @@ redirect_from:
 - Contact: bhe46@gatech.edu
 
 # Experiences
+- 2019.08 - Present: **Georgia Institute of Technology**, Atlanta, Georgia
+  * **Graduate Research Assistant**, School of Computer Science
+  * Projects: 
+    * Hate and Counter Speech Text and User Network Analysis during the COVID-19 Pandemic
+    * Deep Sequence Embedding-based Fraud Detection and Attack by Adversarial Text Generation
+    * Misinformation Detection and Mitigation on Twitter via Text Classification and Generation 
+  * Advisors: Prof. Srijan Kumar & Prof. Mustaque Ahamad
 - 2022.05 - 2022.08: **Amazon**, San Diego, California
   * **Applied Scientist Intern**, Machine Learning Accelerator
   * Project: Buyer Risk Assessment by Dynamic Graph Neural Network
@@ -30,14 +37,6 @@ redirect_from:
   * **Applied Scientist Intern**, Machine Learning Accelerator
   * Project: Buyer and Seller Fraud Detection by Graph Neural Network
   * Manager: Dr. Chris Jones, Mentors: Ms. Veena Padmanabhan
-
-- 2019.08 - Present: **Georgia Institute of Technology**, Atlanta, Georgia
-  * **Graduate Research Assistant**, School of Computer Science
-  * Projects: 
-    * Hate and Counter Speech Text and User Network Analysis during the COVID-19 pandemic
-    * Deep Sequence Embedding-based Fraud Detection and Attack by Adversarial Text Generation
-    * Misinformation Detection and Mitigation on Twitter via Text Classification and Generation 
-  * Advisors: Prof. Srijan Kumar & Prof. Mustaque Ahamad
 
 
 # Recent Publications
@@ -51,12 +50,17 @@ in Countering Misinformation: A Case Study of the COVID-19 Infodemic", **IEEE Bi
 contribution)**
 
 # Academic Services
-
+<!---
+Goal: at least 50 review records for my future development
+- Added ICWSM'23: # of reviews: 13
+- on Oct 26 2022, Added 2022 The 14th International Conference on Cyber-Enabled Distributed Computing and Knowledge Discovery: # of reviews: 14
+- on Oct 29 2022, Got the review invitation from JENRS, but, just an application, list it as a potential, but I do not include it
+-->
 Program Committee/Reviewer: 
 AAAI ICWSM 2023, TheWebConf (WWW) 2023, COLLA 2023, 
-AAAI ICWSM 2022, CySoc 2022, ACM CSCW 2022, 
-ACII 2021, AAAI ICWSM 2021, 
-MAISoN 2020, TTO 2020, AAAI ICWSM 2020, 
+AAAI ICWSM 2022, ACM CSCW 2022, CySoc 2022, Cyberc 2022, JENRS 2022, 
+AAAI ICWSM 2021, ACII 2021,
+AAAI ICWSM 2020, MAISoN 2020, TTO 2020,  
 IEEE ICPADS 2018, 
 ACM CIKM 2017
 
