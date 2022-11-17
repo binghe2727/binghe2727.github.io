@@ -42,7 +42,7 @@ redirect_from:
   * Manager: Dr. Chris Jones, Mentors: Ms. Veena Padmanabhan
 
 
-# Recent Publications
+# Recent Publications [[Google Scholar](https://scholar.google.com/citations?user=BoGbpiIAAAAJ&hl=en)]
 - **Bing He**, Mustaque Ahamad, Srijan Kumar, "PETGEN: Personalized Text Generation Attack on Deep
 Sequence Embedding-based Classification Models", **ACM SIGKDD’21**
 - **Bing He**, Caleb Ziems, Sandeep Soni, Naren Ramakrishnan, Diyi Yang, Srijan Kumar, "Racism is a
