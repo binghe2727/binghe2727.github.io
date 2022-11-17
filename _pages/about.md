@@ -14,8 +14,11 @@ redirect_from:
   at the [Georgia Institute of Technology](https://www.gatech.edu/).
 - My research goal is to **develop advanced computational methods 
   to enhance the safety and integrity for web users and communities**.
-- My research interests include **machine learning, natural language process, and graph mining 
-  with applications in misinformation, hate speech, fake news, user fraud and user risk**.
+- My **research interests** include:
+  - **Machine Learning**: Multi-task Learning, Reinforcement Learning, Few-shot Learning, Deep Learning, Representation learning
+  - **Natural Language Process**: Text Classification, Text Generation
+  - **Graph Mining**: Graph Neural Network, Dynamic Graph Representation, Node Classification, Node Representation Learning
+  - **Applied Machine Learning**: Machine Learning Application in Misinformation, Hate speech, Fake News, User Fraud and Risk Domain
 - Before joining Georgia Tech, I was advised by [Prof. Lionel M. Ni](https://www.cse.ust.hk/~ni/), [Prof. Lei Chen](https://cse.hkust.edu.hk/~leichen/) and Dr. Min Gao 
   at the Hong Kong University of Science and Technology. 
   I got my bachelor from the University of Electronic Science and Technology of China.
@@ -25,17 +28,17 @@ redirect_from:
 - 2019.08 - Present: **Georgia Institute of Technology**, Atlanta, Georgia
   * **Graduate Research Assistant**, School of Computer Science
   * Projects: 
-    * Hate and Counter Speech Text and User Network Analysis during the COVID-19 Pandemic
+    * Hate Speech and Counter Speech Text Classification, and User Social Network Analysis during the COVID-19 Pandemic
     * Deep Sequence Embedding-based Fraud Detection and Attack by Adversarial Text Generation
     * Misinformation Detection and Mitigation on Twitter via Text Classification and Generation 
   * Advisors: Prof. Srijan Kumar & Prof. Mustaque Ahamad
 - 2022.05 - 2022.08: **Amazon**, San Diego, California
   * **Applied Scientist Intern**, Machine Learning Accelerator
-  * Project: Buyer Risk Assessment by Dynamic Graph Neural Network
+  * Project: Buyer Risk Assessment by Node Representation Learning using Dynamic Graph Neural Network
   * Manager: Dr. Na Zhang, Mentors: Dr. Shobeir Fakhraei
 - 2021.05 - 2021.08: **Amazon**, San Diego, California
   * **Applied Scientist Intern**, Machine Learning Accelerator
-  * Project: Buyer and Seller Fraud Detection by Graph Neural Network
+  * Project: Buyer and Seller Node Fraud Detection by Graph Neural Network
   * Manager: Dr. Chris Jones, Mentors: Ms. Veena Padmanabhan
 
 
