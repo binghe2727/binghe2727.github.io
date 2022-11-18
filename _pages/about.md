@@ -18,6 +18,7 @@ redirect_from:
   - **Machine Learning**: Multi-task Learning, Reinforcement Learning, Few-shot Learning, Deep Learning, Representation learning
   - **Natural Language Process**: Text Classification, Text Generation
   - **Graph Mining**: Graph Neural Network, Dynamic Graph Representation, Node Classification, Node Representation Learning
+  - **Misinformation/Hate Speech**: Misinformation/Fake News/False/Hate Speech Information Detection, Characterization, and Mitigation
   - **Applied Machine Learning**: Machine Learning Application in Misinformation, Hate speech, Fake News, User Fraud and Risk Domain
 - Before joining Georgia Tech, I was advised by [Prof. Lionel M. Ni](https://www.cse.ust.hk/~ni/), [Prof. Lei Chen](https://cse.hkust.edu.hk/~leichen/) and Dr. Min Gao 
   at the Hong Kong University of Science and Technology. 
