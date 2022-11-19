@@ -25,6 +25,9 @@ redirect_from:
   I got my bachelor from the University of Electronic Science and Technology of China.
 - Contact: bhe46@gatech.edu
 
+# Recent Updates
+- Oct 2022: Invited to be the program committee of the Web Conference (WWWW) 2023
+
 # Experiences
 - 2019.08 - Present: **Georgia Institute of Technology**, Atlanta, Georgia
   * **Graduate Research Assistant**, School of Computer Science
