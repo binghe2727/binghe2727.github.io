@@ -26,7 +26,7 @@ redirect_from:
 - Contact: bhe46@gatech.edu
 
 # Recent Updates
-- Oct 2022: Invited to be the program committee of the Web Conference (WWWW) 2023
+- Oct 2022: Invited to be the program committee of the Web Conference (WWW) 2023
 
 # Experiences
 - 2019.08 - Present: **Georgia Institute of Technology**, Atlanta, Georgia
