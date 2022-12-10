@@ -62,9 +62,10 @@ Goal: at least 50 review records for my future development
 - Added ICWSM'23: # of reviews: 13
 - on Oct 26 2022, Added 2022 The 14th International Conference on Cyber-Enabled Distributed Computing and Knowledge Discovery: # of reviews: 14
 - on Oct 29 2022, Got the review invitation from JENRS, but, just an application, list it as a potential, but I do not include it
+- on Dec 2 2022, accepted the invitation to AAAI AI4SG 2023: the number is: 15
 -->
 Program Committee/Reviewer: 
-AAAI ICWSM 2023, TheWebConf (WWW) 2023, COLLA 2023,
+AAAI AI4SG 2023, AAAI ICWSM 2023, TheWebConf (WWW) 2023, COLLA 2023,
 AAAI ICWSM 2022, ACM CSCW 2022, CySoc 2022, Cyberc 2022, JENRS 2022,
 AAAI ICWSM 2021, ACII 2021,
 AAAI ICWSM 2020, MAISoN 2020, TTO 2020,
