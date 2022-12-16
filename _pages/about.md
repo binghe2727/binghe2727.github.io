@@ -66,11 +66,11 @@ Goal: at least 50 review records for my future development
 - on Dec 16 2022, finished the review of tspc CMC, include it, and the total number is: 16
 -->
 Program Committee/Reviewer: 
-AAAI AI4SG 2023, AAAI ICWSM 2023, TheWebConf (WWW) 2023, COLLA 2023
-AAAI ICWSM 2022, ACM CSCW 2022, CySoc 2022, Cyberc 2022, JENRS 2022, CMC(J) 2022
-AAAI ICWSM 2021, ACII 2021,
-AAAI ICWSM 2020, MAISoN 2020, TTO 2020,
-IEEE ICPADS 2018,
+AAAI AI4SG 2023, AAAI ICWSM 2023, TheWebConf (WWW) 2023, COLLA 2023, 
+AAAI ICWSM 2022, ACM CSCW 2022, CySoc 2022, Cyberc 2022, JENRS 2022, CMC(J) 2022, 
+AAAI ICWSM 2021, ACII 2021, 
+AAAI ICWSM 2020, MAISoN 2020, TTO 2020, 
+IEEE ICPADS 2018, 
 ACM CIKM 2017
 
 ### I am open to peer reviews in the field of machine learning, natural language processing, and graph mining with its applications in misinformation, fake news, social network analysis, and etc.
