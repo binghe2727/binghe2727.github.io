@@ -13,10 +13,10 @@ redirect_from:
   [Prof. Mustaque Ahamad](https://www.cc.gatech.edu/people/mustaque-ahamad) 
   at the [Georgia Institute of Technology](https://www.gatech.edu/).
 - My research goal is to **develop advanced computational methods 
-  to enhance the safety and integrity for web users and communities**.
+  to enhance the safety and integrity for web users and communities for the ultimate social good**.
 - My **research interests** include:
   - **Machine Learning**: Multi-task Learning, Reinforcement Learning, Few-shot Learning, Deep Learning, Representation learning
-  - **Natural Language Process**: Text Classification, Text Generation
+  - **Natural Language Processing**: Text Classification, Text Generation
   - **Graph Mining**: Graph Neural Network, Dynamic Graph Representation, Node Classification, Node Representation Learning
   - **Misinformation/Hate Speech**: Misinformation/Fake News/False/Hate Speech Information Detection, Characterization, and Mitigation
   - **Applied Machine Learning**: Machine Learning Application in Misinformation, Hate speech, Fake News, User Fraud and Risk Domain
@@ -63,10 +63,11 @@ Goal: at least 50 review records for my future development
 - on Oct 26 2022, Added 2022 The 14th International Conference on Cyber-Enabled Distributed Computing and Knowledge Discovery: # of reviews: 14
 - on Oct 29 2022, Got the review invitation from JENRS, but, just an application, list it as a potential, but I do not include it
 - on Dec 2 2022, accepted the invitation to AAAI AI4SG 2023: the number is: 15
+- on Dec 16 2022, finished the review of tspc CMC, include it, and the total number is: 16
 -->
 Program Committee/Reviewer: 
-AAAI AI4SG 2023, AAAI ICWSM 2023, TheWebConf (WWW) 2023, COLLA 2023,
-AAAI ICWSM 2022, ACM CSCW 2022, CySoc 2022, Cyberc 2022, JENRS 2022,
+AAAI AI4SG 2023, AAAI ICWSM 2023, TheWebConf (WWW) 2023, COLLA 2023
+AAAI ICWSM 2022, ACM CSCW 2022, CySoc 2022, Cyberc 2022, JENRS 2022, CMC(J) 2022
 AAAI ICWSM 2021, ACII 2021,
 AAAI ICWSM 2020, MAISoN 2020, TTO 2020,
 IEEE ICPADS 2018,
