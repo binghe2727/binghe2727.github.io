@@ -64,9 +64,10 @@ Goal: at least 50 review records for my future development
 - on Oct 29 2022, Got the review invitation from JENRS, but, just an application, list it as a potential, but I do not include it
 - on Dec 2 2022, accepted the invitation to AAAI AI4SG 2023: the number is: 15
 - on Dec 16 2022, finished the review of tspc CMC, include it, and the total number is: 16
+- on Dec 27 2022, got the invitation for the review of CMC due on Jan 2023, and the total number is: 17
 -->
 **Program Committee/Reviewer**: 
-AAAI AI4SG 2023, AAAI ICWSM 2023, TheWebConf (WWW) 2023, COLLA 2023, 
+AAAI AI4SG 2023, AAAI ICWSM 2023, TheWebConf (WWW) 2023, COLLA 2023, CMC(J) 2023,
 AAAI ICWSM 2022, ACM CSCW 2022, CySoc 2022, Cyberc 2022, JENRS 2022, CMC(J) 2022, 
 AAAI ICWSM 2021, ACII 2021, 
 AAAI ICWSM 2020, MAISoN 2020, TTO 2020, 
