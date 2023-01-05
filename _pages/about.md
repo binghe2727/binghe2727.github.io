@@ -11,14 +11,16 @@ redirect_from:
 - I am a fourth-year CS PhD student 
   co-advised by [Prof. Srijan Kumar](https://faculty.cc.gatech.edu/~srijan/) and 
   [Prof. Mustaque Ahamad](https://www.cc.gatech.edu/people/mustaque-ahamad) 
+  homed in School of Computer Science
   at the [Georgia Institute of Technology](https://www.gatech.edu/).
 - My research goal is to **develop advanced computational methods 
-  to enhance the safety and integrity for web users and communities for the ultimate social good**.
+  to enhance the safety and integrity for web users and communities for social good**.
 - My **research interests** include:
   - **Machine Learning**: Multi-task Learning, Reinforcement Learning, Few-shot Learning, Deep Learning, Representation learning
   - **Natural Language Processing**: Text Classification, Text Generation
   - **Graph Mining**: Graph Neural Network, Dynamic Graph Representation, Node Classification, Node Representation Learning
   - **Misinformation/Hate Speech**: Misinformation/Fake News/False/Hate Speech Information Detection, Characterization, and Mitigation
+  - **Social Network Analysis**: Social Computing, User Behavior Modeling, Information Propagation
   - **Applied Machine Learning**: Machine Learning Application in Misinformation, Hate speech, Fake News, User Fraud and Risk Domain
 - Before joining Georgia Tech, I was advised by [Prof. Lionel M. Ni](https://www.cse.ust.hk/~ni/), [Prof. Lei Chen](https://cse.hkust.edu.hk/~leichen/) and Dr. Min Gao 
   at the Hong Kong University of Science and Technology. 
@@ -48,12 +50,12 @@ redirect_from:
 
 # Recent Publications [[Google Scholar](https://scholar.google.com/citations?user=BoGbpiIAAAAJ&hl=en)]
 - **Bing He**, Mustaque Ahamad, Srijan Kumar, "PETGEN: Personalized Text Generation Attack on Deep
-Sequence Embedding-based Classification Models", **ACM SIGKDD’21**
+Sequence Embedding-based Classification Models", **ACM SIGKDD’2021**
 - **Bing He**, Caleb Ziems, Sandeep Soni, Naren Ramakrishnan, Diyi Yang, Srijan Kumar, "Racism is a
 virus: Anti-asian Hate and Counterspeech in Social Media during the Covid-19 Crisis", **IEEE/ACM
-ASONAM’21**
+ASONAM’2021**
 - Nicholas Micallef∗, **Bing He∗**, Srijan Kumar, Mustaque Ahamad, Nasir Memon, "The Role of the Crowd
-in Countering Misinformation: A Case Study of the COVID-19 Infodemic", **IEEE BigData’20 (∗ equal
+in Countering Misinformation: A Case Study of the COVID-19 Infodemic", **IEEE BigData’2020 (∗ equal
 contribution)**
 
 # Academic Services
@@ -65,9 +67,18 @@ Goal: at least 50 review records for my future development
 - on Dec 2 2022, accepted the invitation to AAAI AI4SG 2023: the number is: 15
 - on Dec 16 2022, finished the review of tspc CMC, include it, and the total number is: 16
 - on Dec 27 2022, got the invitation for the review of CMC due on Jan 2023, and the total number is: 17
+- on Jan 3 2023, got the PC invitation for ACM SIGKDD 2023: the total number is: 18, but # of papers are not updated: only 32 papers
+# of papers
+ACM SIGKDD 2023 (0 for the pending task), AAAI AI4SG 2023 (3), AAAI ICWSM 2023 (1), TheWebConf (WWW) 2023 (5), COLLA 2023 (0 for the pending), CMC(J) 2023 (1),
+AAAI ICWSM 2022 (1), ACM CSCW 2022 (1), CySoc 2022 (2), Cyberc 2022 (2), JENRS 2022 (0 for the pending), CMC(J) 2022 (1), 
+AAAI ICWSM 2021 (1 in the email/system, but shown as ICWSM 2022), ACII 2021 (1), 
+AAAI ICWSM 2020 (1 on the review history), MAISoN 2020 (2), TTO 2020 (1), 
+IEEE ICPADS 2018 (8), 
+ACM CIKM 2017 (1)
+
 -->
 **Program Committee/Reviewer**: 
-AAAI AI4SG 2023, AAAI ICWSM 2023, TheWebConf (WWW) 2023, COLLA 2023, CMC(J) 2023,
+ACM SIGKDD 2023, AAAI AI4SG 2023, AAAI ICWSM 2023, TheWebConf (WWW) 2023, COLLA 2023, CMC(J) 2023,
 AAAI ICWSM 2022, ACM CSCW 2022, CySoc 2022, Cyberc 2022, JENRS 2022, CMC(J) 2022, 
 AAAI ICWSM 2021, ACII 2021, 
 AAAI ICWSM 2020, MAISoN 2020, TTO 2020, 
