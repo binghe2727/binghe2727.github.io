@@ -16,10 +16,10 @@ redirect_from:
 - My research goal is to **develop advanced computational methods 
   to enhance the safety and integrity for web users and communities for social good**.
 - My **research interests** include:
-  - **Machine Learning**: Multi-task Learning, Reinforcement Learning, Few-shot Learning, Deep Learning, Representation learning
+  - **Machine Learning**: Multi-task Learning, Reinforcement Learning, Few-shot Learning, Representation learning
   - **Natural Language Processing**: Text Classification, Text Generation
-  - **Graph Mining**: Graph Neural Network, Dynamic Graph Representation, Node Classification, Node Representation Learning
-  - **Misinformation/Hate Speech/Fraud**: Misinformation/Fake News/Hate Speech Information Detection, Characterization, and Mitigation, User Fraud and Risk Modeling, Fraud Detection
+  - **Graph Mining**: Graph Neural Network, Dynamic Graph Representation
+  - **Misinformation/Hate Speech/Fraud**: Misinformation/Fake News/Hate Speech Detection, User Fraud and Risk Modeling
   - **Social Network Analysis**: Social Computing, User Behavior Modeling, Information Propagation
 - Before joining Georgia Tech, I was advised by [Prof. Lionel M. Ni](https://www.cse.ust.hk/~ni/), [Prof. Lei Chen](https://cse.hkust.edu.hk/~leichen/) and Dr. Min Gao 
   at the Hong Kong University of Science and Technology. 
