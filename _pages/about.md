@@ -68,6 +68,7 @@ Goal: at least 50 review records for my future development
 - on Dec 27 2022, got the invitation for the review of CMC due on Jan 2023, and the total number is: 17
 - on Jan 3 2023, got the PC invitation for ACM SIGKDD 2023: the total number is: 18, but # of papers are not updated: only 32 papers
 - on Jan 5 2023, got the PC invitation for IJCAI 2023: # of conference is: 19, # of papers: 32
+- on Jan 12 2023, got the PC invitation for INFOCOMP 2023: # of conferences is: 20, # of papers: 32.
 # of papers
 ACM SIGKDD 2023 (0 for the pending task), AAAI AI4SG 2023 (3), AAAI ICWSM 2023 (1), TheWebConf (WWW) 2023 (5), COLLA 2023 (0 for the pending), CMC(J) 2023 (1),
 AAAI ICWSM 2022 (1), ACM CSCW 2022 (1), CySoc 2022 (2), Cyberc 2022 (2), JENRS 2022 (0 for the pending), CMC(J) 2022 (1), 
@@ -78,7 +79,7 @@ ACM CIKM 2017 (1)
 
 -->
 **Program Committee/Reviewer**: 
-IJCAI 2023, ACM SIGKDD 2023, AAAI AI4SG 2023, AAAI ICWSM 2023, TheWebConf (WWW) 2023, COLLA 2023, CMC(J) 2023,
+IJCAI 2023, ACM SIGKDD 2023, AAAI AI4SG 2023, AAAI ICWSM 2023, TheWebConf (WWW) 2023, COLLA 2023, CMC(J) 2023, INFOCOMP 2023, 
 AAAI ICWSM 2022, ACM CSCW 2022, CySoc 2022, Cyberc 2022, JENRS 2022, CMC(J) 2022, 
 AAAI ICWSM 2021, ACII 2021, 
 AAAI ICWSM 2020, MAISoN 2020, TTO 2020, 
