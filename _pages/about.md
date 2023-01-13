@@ -19,8 +19,9 @@ redirect_from:
   - **Machine Learning**: Multi-task Learning, Reinforcement Learning, Few-shot Learning, Representation learning
   - **Natural Language Processing**: Text Classification, Text Generation
   - **Graph Mining**: Graph Neural Network, Dynamic Graph Representation
-  - **Misinformation/Hate Speech/Fraud**: Misinformation/Fake News/Hate Speech Detection, User Fraud and Risk Modeling
-  - **Social Network Analysis**: Social Computing, User Behavior Modeling, Information Propagation
+  - **Computational Social Science**: 
+    - **Misinformation/Hate Speech/Fraud**: Misinformation/Fake News/Hate Speech Detection, User Fraud and Risk Modeling
+    - **Social Network Analysis**: Social Computing, User Behavior Modeling, Information Propagation
 - Before joining Georgia Tech, I was advised by [Prof. Lionel M. Ni](https://www.cse.ust.hk/~ni/), [Prof. Lei Chen](https://cse.hkust.edu.hk/~leichen/) and Dr. Min Gao 
   at the Hong Kong University of Science and Technology. 
   I got my bachelor from the University of Electronic Science and Technology of China.
@@ -35,7 +36,7 @@ redirect_from:
   * Projects: 
     * Hate Speech and Counter Speech Text Classification, and User Social Network Analysis during the COVID-19 Pandemic
     * Deep Sequence Embedding-based Fraud Detection and Attack by Adversarial Text Generation
-    * Misinformation Detection and Mitigation on Twitter via Text Classification and Generation 
+    * Misinformation Detection and Mitigation on Twitter via Text Classification and Reinforcement Learning-based Text Generation 
   * Advisors: Prof. Srijan Kumar & Prof. Mustaque Ahamad
 - 2022.05 - 2022.08: **Amazon**, San Diego, California
   * **Applied Scientist Intern**, Machine Learning Accelerator
