@@ -8,8 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-- I am a fourth-year CS PhD student 
-  co-advised by [Prof. Srijan Kumar](https://faculty.cc.gatech.edu/~srijan/) and 
+<!---
+1. how do I add the potential graduation year such that recruiter can find you very quickly?
+-->
+
+- I am a fourth-year CS PhD student co-advised by [Prof. Srijan Kumar](https://faculty.cc.gatech.edu/~srijan/) and 
   [Prof. Mustaque Ahamad](https://www.cc.gatech.edu/people/mustaque-ahamad) 
   homed in School of Computer Science
   at the [Georgia Institute of Technology](https://www.gatech.edu/).
@@ -28,7 +31,8 @@ redirect_from:
 - Contact: bhe46@gatech.edu
 
 # Recent Updates
-- Oct 2022: Invited to be the program committee of the Web Conference (WWW) 2023
+- Jan 2023: One paper accepted to the Web Conference (WWW) 2023
+- Jan 2023: Invited to be the program committee of IJCAI 2023 and ACM SIGKDD 2023
 
 # Experiences
 - 2019.08 - Present: **Georgia Institute of Technology**, Atlanta, Georgia
@@ -49,6 +53,7 @@ redirect_from:
 
 
 # Recent Publications [[Google Scholar](https://scholar.google.com/citations?user=BoGbpiIAAAAJ&hl=en)]
+- **Bing He**, Mustaque Ahamad, Srijan Kumar, "Reinforcement Learning-based Counter-Misinformation Response Generation: A Case Study of COVID-19 Vaccine Misinformation", **The Web Conference'2023**
 - **Bing He**, Mustaque Ahamad, Srijan Kumar, "PETGEN: Personalized Text Generation Attack on Deep
 Sequence Embedding-based Classification Models", **ACM SIGKDD’2021**
 - **Bing He**, Caleb Ziems, Sandeep Soni, Naren Ramakrishnan, Diyi Yang, Srijan Kumar, "Racism is a
@@ -77,6 +82,8 @@ AAAI ICWSM 2021 (1 in the email/system, but shown as ICWSM 2022), ACII 2021 (1),
 AAAI ICWSM 2020 (1 on the review history), MAISoN 2020 (2), TTO 2020 (1), 
 IEEE ICPADS 2018 (8), 
 ACM CIKM 2017 (1)
+- on Jan 18 2023, got one paper review for from CMC(J) 2023 again: # of venues is: 20, # of papers: 33.
+- on Jan 24 2023, got the invitation for one paper review of ICWSM'23: # of venues is: 20, # of papers: 34.
 
 -->
 **Program Committee/Reviewer**: 
