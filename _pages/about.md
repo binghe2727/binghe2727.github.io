@@ -23,7 +23,7 @@ redirect_from:
   - **Natural Language Processing**: Text Classification, Text Generation
   - **Graph Mining**: Graph Neural Network, Dynamic Graph Representation
   - **Computational Social Science**: 
-    - **Misinformation/Hate Speech/Fraud**: Misinformation/Fake News/Hate Speech Detection, User Fraud and Risk Modeling
+    - **Misinformation/Fake News/Hate Speech/Fraud**: Misinformation/Fake News/Hate Speech Detection, User Fraud and Risk Modeling
     - **Social Network Analysis**: Social Computing, User Behavior Modeling, Information Propagation
 - Before joining Georgia Tech, I was advised by [Prof. Lionel M. Ni](https://www.cse.ust.hk/~ni/), [Prof. Lei Chen](https://cse.hkust.edu.hk/~leichen/) and Dr. Min Gao 
   at the Hong Kong University of Science and Technology. 
@@ -83,6 +83,7 @@ ACM CIKM 2017 (1)
 - on Jan 18 2023, got one paper review for from CMC(J) 2023 again: # of venues is: 20, # of papers: 33.
 - on Jan 24 2023, got the invitation for one paper review of ICWSM'23: # of venues is: 20, # of papers: 34.
 - on Jan 26 2023, got the invitation for two paper reviews of ICWSM'23: # of venues is: 20, # of papers: 36.
+- on Jan 28 2023, got the invitation for one paper review of ICWSM'23: # of venues is: 20, # of papers: 37.
 -->
 **Program Committee/Reviewer**: 
 IJCAI 2023, ACM SIGKDD 2023, AAAI AI4SG 2023, AAAI ICWSM 2023, TheWebConf (WWW) 2023, COLLA 2023, CMC(J) 2023, INFOCOMP 2023, 
