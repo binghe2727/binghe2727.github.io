@@ -34,6 +34,16 @@ redirect_from:
 - Jan 2023: One paper accepted to the ACM Web Conference (WWW) 2023
 - Jan 2023: Invited to be the program committee of IJCAI 2023 and ACM SIGKDD 2023
 
+# Recent Publications [[Google Scholar](https://scholar.google.com/citations?user=BoGbpiIAAAAJ&hl=en)]
+- **Bing He**, Mustaque Ahamad, Srijan Kumar, "Reinforcement Learning-based Counter-Misinformation Response Generation: A Case Study of COVID-19 Vaccine Misinformation", **The ACM Web Conference'2023**
+- **Bing He**, Mustaque Ahamad, Srijan Kumar, "PETGEN: Personalized Text Generation Attack on Deep
+Sequence Embedding-based Classification Models", **ACM SIGKDD’2021**
+- **Bing He**, Caleb Ziems, Sandeep Soni, Naren Ramakrishnan, Diyi Yang, Srijan Kumar, "Racism is a
+virus: Anti-asian Hate and Counterspeech in Social Media during the Covid-19 Crisis", **IEEE/ACM ASONAM’2021**
+- Nicholas Micallef∗, **Bing He∗**, Srijan Kumar, Mustaque Ahamad, Nasir Memon, "The Role of the Crowd
+in Countering Misinformation: A Case Study of the COVID-19 Infodemic", **IEEE BigData’2020 (∗ equal contribution)**
+
+
 # Experiences
 - 2019.08 - Present: **Georgia Institute of Technology**, Atlanta, Georgia
   * **Graduate Research Assistant**, School of Computer Science
@@ -44,22 +54,16 @@ redirect_from:
   * Advisors: Prof. Srijan Kumar & Prof. Mustaque Ahamad
 - 2022.05 - 2022.08: **Amazon**, San Diego, California
   * **Applied Scientist Intern**, Machine Learning Accelerator
+  <!---
   * Project: Buyer Risk Assessment by Node Representation Learning using Dynamic Graph Neural Network
+  -->
   * Manager: Dr. Na Zhang, Mentors: Dr. Shobeir Fakhraei
 - 2021.05 - 2021.08: **Amazon**, San Diego, California
   * **Applied Scientist Intern**, Machine Learning Accelerator
-  * Project: Buyer and Seller Node Fraud Detection by Graph Neural Network
+  <!--* Project: Buyer and Seller Node Fraud Detection by Graph Neural Network-->
   * Manager: Dr. Chris Jones, Mentors: Ms. Veena Padmanabhan
 
 
-# Recent Publications [[Google Scholar](https://scholar.google.com/citations?user=BoGbpiIAAAAJ&hl=en)]
-- **Bing He**, Mustaque Ahamad, Srijan Kumar, "Reinforcement Learning-based Counter-Misinformation Response Generation: A Case Study of COVID-19 Vaccine Misinformation", **The ACM Web Conference'2023**
-- **Bing He**, Mustaque Ahamad, Srijan Kumar, "PETGEN: Personalized Text Generation Attack on Deep
-Sequence Embedding-based Classification Models", **ACM SIGKDD’2021**
-- **Bing He**, Caleb Ziems, Sandeep Soni, Naren Ramakrishnan, Diyi Yang, Srijan Kumar, "Racism is a
-virus: Anti-asian Hate and Counterspeech in Social Media during the Covid-19 Crisis", **IEEE/ACM ASONAM’2021**
-- Nicholas Micallef∗, **Bing He∗**, Srijan Kumar, Mustaque Ahamad, Nasir Memon, "The Role of the Crowd
-in Countering Misinformation: A Case Study of the COVID-19 Infodemic", **IEEE BigData’2020 (∗ equal contribution)**
 
 # Academic Services
 <!---
