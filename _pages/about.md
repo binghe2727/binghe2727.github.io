@@ -16,8 +16,7 @@ redirect_from:
   [Prof. Mustaque Ahamad](https://www.cc.gatech.edu/people/mustaque-ahamad) 
   homed in School of Computer Science
   at the [Georgia Institute of Technology](https://www.gatech.edu/).
-- My research goal is to **develop advanced computational methods 
-  to enhance the safety and integrity for web users and communities for social good**.
+- My research goal is to **develop advanced machine learning methods to enhance the safety and integrity for web users and communities for social good**.
 - My **research interests** include:
   - **Machine Learning**: Multi-task Learning, Reinforcement Learning, Few-shot Learning, Representation learning
   - **Natural Language Processing**: Text Classification, Text Generation
@@ -57,11 +56,11 @@ in Countering Misinformation: A Case Study of the COVID-19 Infodemic", **IEEE Bi
   <!---
   * Project: Buyer Risk Assessment by Node Representation Learning using Dynamic Graph Neural Network
   -->
-  * Manager: Dr. Na Zhang, Mentors: Dr. Shobeir Fakhraei
+  * Manager: Dr. Na Zhang, Mentor: Dr. Shobeir Fakhraei
 - 2021.05 - 2021.08: **Amazon**, San Diego, California
   * **Applied Scientist Intern**, Machine Learning Accelerator
   <!--* Project: Buyer and Seller Node Fraud Detection by Graph Neural Network-->
-  * Manager: Dr. Chris Jones, Mentors: Ms. Veena Padmanabhan
+  * Manager: Dr. Chris Jones, Mentor: Ms. Veena Padmanabhan
 
 
 
