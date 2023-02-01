@@ -35,6 +35,7 @@ redirect_from:
 
 # Recent Publications [[Google Scholar](https://scholar.google.com/citations?user=BoGbpiIAAAAJ&hl=en)]
 - **Bing He**, Mustaque Ahamad, Srijan Kumar, "Reinforcement Learning-based Counter-Misinformation Response Generation: A Case Study of COVID-19 Vaccine Misinformation", **The ACM Web Conference'2023**
+- Yingchen Ma, **Bing He**, Nathan Subrahmanian, Srijan Kumar, "Characterizing and Predicting Social Correction on Twitter", **The ACM Web Science Conference'2023**
 - **Bing He**, Mustaque Ahamad, Srijan Kumar, "PETGEN: Personalized Text Generation Attack on Deep
 Sequence Embedding-based Classification Models", **ACM SIGKDD’2021**
 - **Bing He**, Caleb Ziems, Sandeep Soni, Naren Ramakrishnan, Diyi Yang, Srijan Kumar, "Racism is a
@@ -85,6 +86,7 @@ ACM CIKM 2017 (1)
 - on Jan 24 2023, got the invitation for one paper review of ICWSM'23: # of venues is: 20, # of papers: 34.
 - on Jan 26 2023, got the invitation for two paper reviews of ICWSM'23: # of venues is: 20, # of papers: 36.
 - on Jan 28 2023, got the invitation for one paper review of ICWSM'23: # of venues is: 20, # of papers: 37.
+- on Jan 30 2023, got the invitation for two paper review of ICWSM'23: # of venues is: 20, # of papers: 39.
 -->
 **Program Committee/Reviewer**: 
 IJCAI 2023, ACM SIGKDD 2023, AAAI AI4SG 2023, AAAI ICWSM 2023, TheWebConf (WWW) 2023, COLLA 2023, CMC(J) 2023, INFOCOMP 2023, 
