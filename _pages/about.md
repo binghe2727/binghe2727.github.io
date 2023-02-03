@@ -53,11 +53,11 @@ in Countering Misinformation: A Case Study of the COVID-19 Infodemic", **IEEE Bi
     * Misinformation Detection and Mitigation on Twitter via Text Classification and Reinforcement Learning-based Text Generation 
   * Advisors: Prof. Srijan Kumar & Prof. Mustaque Ahamad
 - 2022.05 - 2022.08: **Amazon**, San Diego, California
-  * **Applied Scientist Intern**, Machine Learning Accelerator
+  * **Applied Scientist Intern**, Machine Learning Accelerator, The Consumer Trust and Partner Support Team
   <!--* Project: Buyer Risk Assessment by Node Representation Learning using Dynamic Graph Neural Network-->
   * Manager: Dr. Na Zhang, Mentor: Dr. Shobeir Fakhraei
 - 2021.05 - 2021.08: **Amazon**, San Diego, California
-  * **Applied Scientist Intern**, Machine Learning Accelerator
+  * **Applied Scientist Intern**, Machine Learning Accelerator, The Consumer Trust and Partner Support Team
   <!--* Project: Buyer and Seller Node Fraud Detection by Graph Neural Network-->
   * Manager: Dr. Chris Jones, Mentor: Ms. Veena Padmanabhan
 
