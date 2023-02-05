@@ -30,18 +30,18 @@ redirect_from:
 - Contact: bhe46@gatech.edu
 
 # Recent Updates
-- Jan 2023: One paper accepted to the ACM Web Conference (WWW) 2023
-- Jan 2023: Invited to be the program committee of IJCAI 2023 and ACM SIGKDD 2023
+- Jan 2023: One paper accepted to ACM WWW 2023.
+- Jan 2023: Invited to be the program committee of IJCAI 2023, ACM SIGKDD 2023, and ACM ICWSM 2023.
 
 # Recent Publications [[Google Scholar](https://scholar.google.com/citations?user=BoGbpiIAAAAJ&hl=en)]
-- **Bing He**, Mustaque Ahamad, Srijan Kumar, "Reinforcement Learning-based Counter-Misinformation Response Generation: A Case Study of COVID-19 Vaccine Misinformation", **The ACM Web Conference'2023**
-- Yingchen Ma, **Bing He**, Nathan Subrahmanian, Srijan Kumar, "Characterizing and Predicting Social Correction on Twitter", **The ACM Web Science Conference'2023**
+- **Bing He**, Mustaque Ahamad, Srijan Kumar, "Reinforcement Learning-based Counter-Misinformation Response Generation: A Case Study of COVID-19 Vaccine Misinformation", **ACM WWW 2023**
+- Yingchen Ma, **Bing He**, Nathan Subrahmanian, Srijan Kumar, "Characterizing and Predicting Social Correction on Twitter", **The ACM Web Science Conference 2023**
 - **Bing He**, Mustaque Ahamad, Srijan Kumar, "PETGEN: Personalized Text Generation Attack on Deep
-Sequence Embedding-based Classification Models", **ACM SIGKDD’2021**
+Sequence Embedding-based Classification Models", **ACM SIGKDD 2021**
 - **Bing He**, Caleb Ziems, Sandeep Soni, Naren Ramakrishnan, Diyi Yang, Srijan Kumar, "Racism is a
-virus: Anti-asian Hate and Counterspeech in Social Media during the Covid-19 Crisis", **IEEE/ACM ASONAM’2021**
+virus: Anti-asian Hate and Counterspeech in Social Media during the Covid-19 Crisis", **IEEE/ACM ASONAM 2021**
 - Nicholas Micallef∗, **Bing He∗**, Srijan Kumar, Mustaque Ahamad, Nasir Memon, "The Role of the Crowd
-in Countering Misinformation: A Case Study of the COVID-19 Infodemic", **IEEE BigData’2020 (∗ equal contribution)**
+in Countering Misinformation: A Case Study of the COVID-19 Infodemic", **IEEE BigData 2020 (∗ equal contribution)**
 
 
 # Experiences
