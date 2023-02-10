@@ -47,11 +47,12 @@ in Countering Misinformation: A Case Study of the COVID-19 Infodemic", **IEEE Bi
 # Experiences
 - 2019.08 - Present: **Georgia Institute of Technology**, Atlanta, Georgia
   * **Graduate Research Assistant**, School of Computer Science
-<!-- * Projects: 
+  * Advisors: Prof. Srijan Kumar & Prof. Mustaque Ahamad
+
+<!-- Projects: 
     * Hate Speech and Counter Speech Text Classification, and User Social Network Analysis during the COVID-19 Pandemic
     * Deep Sequence Embedding-based Fraud Detection and Attack by Adversarial Text Generation
-    * Misinformation Detection and Mitigation on Twitter via Text Classification and Reinforcement Learning-based Text Generation 
-  * Advisors: Prof. Srijan Kumar & Prof. Mustaque Ahamad -->
+    * Misinformation Detection and Mitigation on Twitter via Text Classification and Reinforcement Learning-based Text Generation -->
 
 - 2022.05 - 2022.08: **Amazon**, San Diego, California
   * **Applied Scientist Intern**, Machine Learning Accelerator, The Consumer Trust and Partner Support Team
