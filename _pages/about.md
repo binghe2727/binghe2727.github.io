@@ -22,7 +22,7 @@ redirect_from:
   - **Natural Language Processing**: Text Classification, Text Generation
   - **Graph Mining**: Graph Neural Network, Dynamic Graph Representation
   - **Computational Social Science**: 
-    - **Misinformation/Fake News/Hate Speech/Fraud**: Misinformation/Fake News/Hate Speech Detection, User Fraud and Risk Modeling
+    - **Misinformation/Fake News/Hate Speech/Fraud/Rumour**: Misinformation/Fake News/Hate Speech Detection, User Fraud and Risk Modeling
     - **Social Network Analysis**: Social Computing, User Behavior Modeling, Information Propagation
 - Before joining Georgia Tech, I was advised by [Prof. Lionel M. Ni](https://www.cse.ust.hk/~ni/), [Prof. Lei Chen](https://cse.hkust.edu.hk/~leichen/) and Dr. Min Gao 
   at the Hong Kong University of Science and Technology. 
@@ -47,11 +47,14 @@ in Countering Misinformation: A Case Study of the COVID-19 Infodemic", **IEEE Bi
 # Experiences
 - 2019.08 - Present: **Georgia Institute of Technology**, Atlanta, Georgia
   * **Graduate Research Assistant**, School of Computer Science
+<!---
   * Projects: 
     * Hate Speech and Counter Speech Text Classification, and User Social Network Analysis during the COVID-19 Pandemic
     * Deep Sequence Embedding-based Fraud Detection and Attack by Adversarial Text Generation
     * Misinformation Detection and Mitigation on Twitter via Text Classification and Reinforcement Learning-based Text Generation 
-  * Advisors: Prof. Srijan Kumar & Prof. Mustaque Ahamad
+  * Advisors: Prof. Srijan Kumar & Prof. Mustaque Ahamad  
+-->
+
 - 2022.05 - 2022.08: **Amazon**, San Diego, California
   * **Applied Scientist Intern**, Machine Learning Accelerator, The Consumer Trust and Partner Support Team
   <!--* Project: Buyer Risk Assessment by Node Representation Learning using Dynamic Graph Neural Network-->
@@ -75,13 +78,13 @@ Goal: at least 50 review records for my future development
 - on Jan 3 2023, got the PC invitation for ACM SIGKDD 2023: the total number is: 18, but # of papers are not updated: only 32 papers
 - on Jan 5 2023, got the PC invitation for IJCAI 2023: # of conference is: 19, # of papers: 32
 - on Jan 12 2023, got the PC invitation for INFOCOMP 2023: # of conferences is: 20, # of papers: 32.
-# of papers
-ACM SIGKDD 2023 (0 for the pending task), AAAI AI4SG 2023 (3), AAAI ICWSM 2023 (1), TheWebConf (WWW) 2023 (5), COLLA 2023 (0 for the pending), CMC(J) 2023 (1),
-AAAI ICWSM 2022 (1), ACM CSCW 2022 (1), CySoc 2022 (2), Cyberc 2022 (2), JENRS 2022 (0 for the pending), CMC(J) 2022 (1), 
-AAAI ICWSM 2021 (1 in the email/system, but shown as ICWSM 2022), ACII 2021 (1), 
-AAAI ICWSM 2020 (1 on the review history), MAISoN 2020 (2), TTO 2020 (1), 
-IEEE ICPADS 2018 (8), 
-ACM CIKM 2017 (1)
+      # of papers
+      ACM SIGKDD 2023 (0 for the pending task), AAAI AI4SG 2023 (3), AAAI ICWSM 2023 (1), TheWebConf (WWW) 2023 (5), COLLA 2023 (0 for the pending), CMC(J) 2023 (1),
+      AAAI ICWSM 2022 (1), ACM CSCW 2022 (1), CySoc 2022 (2), Cyberc 2022 (2), JENRS 2022 (0 for the pending), CMC(J) 2022 (1), 
+      AAAI ICWSM 2021 (1 in the email/system, but shown as ICWSM 2022), ACII 2021 (1), 
+      AAAI ICWSM 2020 (1 on the review history), MAISoN 2020 (2), TTO 2020 (1), 
+      IEEE ICPADS 2018 (8), 
+      ACM CIKM 2017 (1)
 - on Jan 18 2023, got one paper review for from CMC(J) 2023 again: # of venues is: 20, # of papers: 33.
 - on Jan 24 2023, got the invitation for one paper review of ICWSM'23: # of venues is: 20, # of papers: 34.
 - on Jan 26 2023, got the invitation for two paper reviews of ICWSM'23: # of venues is: 20, # of papers: 36.
@@ -89,6 +92,7 @@ ACM CIKM 2017 (1)
 - on Jan 30 2023, got the invitation for two paper review of ICWSM'23: # of venues is: 20, # of papers: 39.
 - on Feb 3 2023, got the invitation for the conference FAccT 2023: # of venues is: 21, # of papers: 39.
 - on Feb 3 2023, got the invitation for one paper review of ICWSM'23: # of venues 21: 21, # of papers: 40.
+- on Feb 8 2023, found two paper reviews of IJCAI 2023: # of venues 21: 21, # of papers: 42.
 -->
 **Program Committee/Reviewer**: 
 IJCAI 2023, ACM SIGKDD 2023, ACM FAccT 2023, AAAI AI4SG 2023, AAAI ICWSM 2023, TheWebConf (WWW) 2023, COLLA 2023, CMC(J) 2023, INFOCOMP 2023, 
