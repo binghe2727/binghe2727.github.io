@@ -34,8 +34,8 @@ redirect_from:
 - Jan 2023: Invited to be the program committee of IJCAI 2023, ACM SIGKDD 2023, and ACM ICWSM 2023.
 
 # Recent Publications [[Google Scholar](https://scholar.google.com/citations?user=BoGbpiIAAAAJ&hl=en)]
-1. **Bing He**, Mustaque Ahamad, Srijan Kumar, "Reinforcement Learning-based Counter-Misinformation Response Generation: A Case Study of COVID-19 Vaccine Misinformation", [code and data], **ACM WWW 2023**
-2. Yingchen Ma, **Bing He**, Nathan Subrahmanian, Srijan Kumar, "Characterizing and Predicting Social Correction on Twitter", [code and data], **The ACM Web Science Conference 2023**
+1. **Bing He**, Mustaque Ahamad, Srijan Kumar, "Reinforcement Learning-based Counter-Misinformation Response Generation: A Case Study of COVID-19 Vaccine Misinformation", [code and data](https://github.com/claws-lab/MisinfoCorrect), **ACM WWW 2023**
+2. Yingchen Ma, **Bing He**, Nathan Subrahmanian, Srijan Kumar, "Characterizing and Predicting Social Correction on Twitter", [code and data](https://github.com/claws-lab/social-correction-twitter), **The ACM Web Science Conference 2023**
 3. **Bing He**, Mustaque Ahamad, Srijan Kumar, "PETGEN: Personalized Text Generation Attack on Deep
 Sequence Embedding-based Classification Models", [code and data](https://github.com/srijankr/petgen/), **ACM SIGKDD 2021**
 4. **Bing He**, Caleb Ziems, Sandeep Soni, Naren Ramakrishnan, Diyi Yang, Srijan Kumar, "Racism is a
@@ -70,13 +70,13 @@ in Countering Misinformation: A Case Study of the COVID-19 Infodemic", [code and
 Goal: at least 50 review records for my future development
 - Added ICWSM'23: # of reviews: 13
 - on Oct 26 2022, Added 2022 The 14th International Conference on Cyber-Enabled Distributed Computing and Knowledge Discovery: # of reviews: 14
-- on Oct 29 2022, Got the review invitation from JENRS, but, just an application, list it as a potential, but I do not include it
-- on Dec 2 2022, accepted the invitation to AAAI AI4SG 2023: the number is: 15
-- on Dec 16 2022, finished the review of tspc CMC, include it, and the total number is: 16
-- on Dec 27 2022, got the invitation for the review of CMC due on Jan 2023, and the total number is: 17
-- on Jan 3 2023, got the PC invitation for ACM SIGKDD 2023: the total number is: 18, but # of papers are not updated: only 32 papers
-- on Jan 5 2023, got the PC invitation for IJCAI 2023: # of conference is: 19, # of papers: 32
-- on Jan 12 2023, got the PC invitation for INFOCOMP 2023: # of conferences is: 20, # of papers: 32.
+- (venue) on Oct 29 2022, Got the review invitation from JENRS, but, just an application, list it as a potential, but I do not include it
+- (venue) on Dec 2 2022, accepted the invitation to AAAI AI4SG 2023: the number is: 15
+- (paper) on Dec 16 2022, finished the review of tspc CMC, include it, and the total number is: 16
+- (paper) on Dec 27 2022, got the invitation for the review of CMC due on Jan 2023, and the total number is: 17
+- (venue) on Jan 3 2023, got the PC invitation for ACM SIGKDD 2023: the total number is: 18, but # of papers are not updated: only 32 papers
+- (venue) on Jan 5 2023, got the PC invitation for IJCAI 2023: # of conference is: 19, # of papers: 32
+- (venue) on Jan 12 2023, got the PC invitation for INFOCOMP 2023: # of conferences is: 20, # of papers: 32.
       # of papers
       ACM SIGKDD 2023 (0 for the pending task), AAAI AI4SG 2023 (3), AAAI ICWSM 2023 (1), TheWebConf (WWW) 2023 (5), COLLA 2023 (0 for the pending), CMC(J) 2023 (1),
       AAAI ICWSM 2022 (1), ACM CSCW 2022 (1), CySoc 2022 (2), Cyberc 2022 (2), JENRS 2022 (0 for the pending), CMC(J) 2022 (1), 
@@ -84,17 +84,22 @@ Goal: at least 50 review records for my future development
       AAAI ICWSM 2020 (1 on the review history), MAISoN 2020 (2), TTO 2020 (1), 
       IEEE ICPADS 2018 (8), 
       ACM CIKM 2017 (1)
-- on Jan 18 2023, got one paper review for from CMC(J) 2023 again: # of venues is: 20, # of papers: 33.
-- on Jan 24 2023, got the invitation for one paper review of ICWSM'23: # of venues is: 20, # of papers: 34.
-- on Jan 26 2023, got the invitation for two paper reviews of ICWSM'23: # of venues is: 20, # of papers: 36.
-- on Jan 28 2023, got the invitation for one paper review of ICWSM'23: # of venues is: 20, # of papers: 37.
-- on Jan 30 2023, got the invitation for two paper review of ICWSM'23: # of venues is: 20, # of papers: 39.
-- on Feb 3 2023, got the invitation for the conference FAccT 2023: # of venues is: 21, # of papers: 39.
-- on Feb 3 2023, got the invitation for one paper review of ICWSM'23: # of venues : 21, # of papers: 40.
-- on Feb 8 2023, found two paper reviews of IJCAI 2023: # of venues : 21, # of papers: 42.
-- on Feb 16 2023, got the pc invitation for the workshop of www'2023: CySoc: # of venues : 22, # of papers: 42.
-- on Feb 16 2023, got the paper assignment of FAccT 2023: # of venues: 22, # of papers: 44.
-- ongoing review tasks: 7 papers from ICWSM'2023 + 2 from FAcct'2023
+- (paper) on Jan 18 2023, got one paper review for from CMC(J) 2023 again: # of venues is: 20, # of papers: 33.
+- (paper) on Jan 24 2023, got the invitation for one paper review of ICWSM'23: # of venues is: 20, # of papers: 34.
+- (paper) on Jan 26 2023, got the invitation for two paper reviews of ICWSM'23: # of venues is: 20, # of papers: 36.
+- (paper) on Jan 28 2023, got the invitation for one paper review of ICWSM'23: # of venues is: 20, # of papers: 37.
+- (paper) on Jan 30 2023, got the invitation for two paper review of ICWSM'23: # of venues is: 20, # of papers: 39.
+- (venue) on Feb 3 2023, got the invitation for the conference FAccT 2023: # of venues is: 21, # of papers: 39.
+- (paper) on Feb 3 2023, got the invitation for one paper review of ICWSM'23: # of venues : 21, # of papers: 40.
+- (paper) on Feb 8 2023, found two paper reviews of IJCAI 2023: # of venues : 21, # of papers: 42.
+- (venue) on Feb 16 2023, got the pc invitation for the workshop of www'2023: CySoc: # of venues : 22, # of papers: 42.
+- (paper) on Feb 16 2023, got the paper assignment of FAccT 2023: # of venues: 22, # of papers: 44.
+- (paper) on Feb 18 2023, got the review request for two papers at CySoc 2023: # of venues: 22, # of papers: 46
+- (paper) on Feb 25 2023, to summarize: Srijan removed two papers: 46->44, then, KDD two papers: 44->46.
+- (paper) on Feb 28 2023, 3 paper reviews from IJCAI: # of venues: 22, # of papers: 49
+ongoing review tasks: 
+2 from FAcct'2023: March 20 2023
+2 from KDD: March 23 2023
 -->
 **Program Committee/Reviewer**: 
 IJCAI 2023, ACM SIGKDD 2023, ACM FAccT 2023, AAAI AI4SG 2023, AAAI ICWSM 2023, TheWebConf (ACM WWW) 2023, TheWebConf CySoc 2023, COLLA 2023, CMC(J) 2023, INFOCOMP 2023, 

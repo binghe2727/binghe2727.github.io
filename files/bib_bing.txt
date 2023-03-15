@@ -1,0 +1,51 @@
+@inproceedings{sharma2021towards,
+  title={Towards facilitating empathic conversations in online mental health support: A reinforcement learning approach},
+  author={Sharma, Ashish and Lin, Inna W and Miner, Adam S and Atkins, David C and Althoff, Tim},
+  booktitle={Proceedings of the Web Conference 2021},
+  pages={194--205},
+  year={2021}
+}
+
+@inproceedings{niverthi2022characterizing,
+  title={Characterizing, Detecting, and Predicting Online Ban Evasion},
+  author={Niverthi, Manoj and Verma, Gaurav and Kumar, Srijan},
+  booktitle={Proceedings of the ACM Web Conference 2022},
+  pages={2614--2623},
+  year={2022}
+}
+
+
+@inproceedings{he2021petgen,
+  title={Petgen: Personalized text generation attack on deep sequence embedding-based classification models},
+  author={He, Bing and Ahamad, Mustaque and Kumar, Srijan},
+  booktitle={Proceedings of the 27th ACM SIGKDD Conference on Knowledge Discovery \& Data Mining},
+  pages={575--584},
+  year={2021}
+}
+
+
+@inproceedings{mu2022identifying,
+  title={Identifying and characterizing active citizens who refute misinformation in social media},
+  author={Mu, Yida and Niu, Pu and Aletras, Nikolaos},
+  booktitle={14th ACM Web Science Conference 2022},
+  pages={401--410},
+  year={2022}
+}
+
+# created from now on
+
+@inproceedings{he2023reinforcement,
+  title={Reinforcement Learning-based Counter-Misinformation Response Generation: A Case Study of COVID-19 Vaccine Misinformation},
+  author={He, Bing and Ahamad, Mustaque and Kumar, Srijan},
+  booktitle={Proceedings of the ACM Web Conference 2023},
+  year={2023}
+}
+
+@inproceedings{ma2023characterizing,
+  title={Characterizing and Predicting Social Correction on Twitter},
+  author={Ma, Yingchen and He, Bing and Subrahmanian, Nathan and Kumar, Srijan},
+  booktitle={15th ACM Web Science Conference 2023},
+  year={2023}
+}
+
+
