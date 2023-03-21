@@ -42,7 +42,7 @@ Sequence Embedding-based Classification Models", [code and data](https://github.
 virus: Anti-asian Hate and Counterspeech in Social Media during the Covid-19 Crisis", [code and data](https://www.dropbox.com/sh/g9uglvl3cd61k69/AACEk2O2BEKwRTcGthgROOcWa?dl=0), **IEEE/ACM ASONAM 2021**
 5. Nicholas Micallef∗, **Bing He∗**, Srijan Kumar, Mustaque Ahamad, Nasir Memon, "The Role of the Crowd
 in Countering Misinformation: A Case Study of the COVID-19 Infodemic", [code and data](https://sites.google.com/view/counter-covid19-misinformation), **IEEE BigData 2020 (∗ equal contribution)**
-
+6. Bing He, Dian Zhang, Siyuan Liu, Hao Liu, Dawei Han, Lionel M Ni, "Profiling driver behavior for personalized insurance pricing and maximal profit", [paper](./../files/bigdata2018.pdf), **IEEE BigData 2018**
 
 # Experiences
 - 2019.08 - Present: **Georgia Institute of Technology**, Atlanta, Georgia
