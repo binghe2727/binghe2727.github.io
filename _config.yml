@@ -83,7 +83,7 @@ author:
   name             : "Bing He"
   avatar           : "profile.png"
   bio              : "CS Ph.D Student in GaTech"
-  location         : "Atlanta, Georgia, the U.S."
+  location         : "Atlanta, Georgia, USA"
   employer         :
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=BoGbpiIAAAAJ&hl=en"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : # "replacethistwitterhandle"
+  twitter          : "binghe2727" # updated on Mar 20 2023
   vine             :
   weibo            :
   xing             :
