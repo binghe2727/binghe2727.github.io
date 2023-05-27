@@ -35,22 +35,15 @@ redirect_from:
 # Recent Publications [[Google Scholar](https://scholar.google.com/citations?user=BoGbpiIAAAAJ&hl=en)]
 1. **Bing He**, Mustaque Ahamad, Srijan Kumar, "Reinforcement Learning-based Counter-Misinformation Response Generation: A Case Study of COVID-19 Vaccine Misinformation", [code and data](https://github.com/claws-lab/MisinfoCorrect), **ACM Web Conference(ACM WWW) 2023** (Acceptance Rate: 365/1900=19.2%)
 2. Yingchen Ma, **Bing He**, Nathan Subrahmanian, Srijan Kumar, "Characterizing and Predicting Social Correction on Twitter", [code and data](https://github.com/claws-lab/social-correction-twitter), **The ACM Web Science Conference 2023**
-<!---
-35/97=36.1%
--->
+<!-- 35/97=36.1% -->
 3. **Bing He**, Mustaque Ahamad, Srijan Kumar, "PETGEN: Personalized Text Generation Attack on Deep
 Sequence Embedding-based Classification Models", [code and data](https://github.com/srijankr/petgen/), **ACM SIGKDD 2021** (Acceptance Rate: 238/1541=15.4%)
 4. **Bing He**, Caleb Ziems, Sandeep Soni, Naren Ramakrishnan, Diyi Yang, Srijan Kumar, "Racism is a
 virus: Anti-asian Hate and Counterspeech in Social Media during the Covid-19 Crisis", [code and data](https://www.dropbox.com/sh/g9uglvl3cd61k69/AACEk2O2BEKwRTcGthgROOcWa?dl=0), **IEEE/ACM ASONAM 2021**
-<!---
-22/118=18.6%
--->
+<!-- 22/118=18.6% -->
 5. Nicholas Micallef∗, **Bing He∗**, Srijan Kumar, Mustaque Ahamad, Nasir Memon, "The Role of the Crowd
 in Countering Misinformation: A Case Study of the COVID-19 Infodemic", [code and data](https://sites.google.com/view/counter-covid19-misinformation), **IEEE BigData 2020 (∗ equal contribution)**
-
-<!---
-83/535=15.4%
--->
+<!-- 83/535=15.4% -->
 
 
 <!-- 
@@ -60,15 +53,18 @@ Projects:
 
 
 
-# Experiences
+# Professional Experiences
+<!--
 - 2019.08 - Present: **Georgia Institute of Technology**, Atlanta, Georgia
   * **Graduate Research Assistant**, School of Computer Science
   * Advisors: Prof. Srijan Kumar & Prof. Mustaque Ahamad
+-->
 
 <!-- Projects: 
     * Hate Speech and Counter Speech Text Classification, and User Social Network Analysis during the COVID-19 Pandemic
     * Deep Sequence Embedding-based Fraud Detection and Attack by Adversarial Text Generation
-    * Misinformation Detection and Mitigation on Twitter via Text Classification and Reinforcement Learning-based Text Generation -->
+    * Misinformation Detection and Mitigation on Twitter via Text Classification and Reinforcement Learning-based Text Generation 
+-->
 
 - 2022.05 - 2022.08: **Amazon**, San Diego, California
   * **Applied Scientist Intern**, Machine Learning Accelerator, The Consumer Trust and Partner Support Team
@@ -124,9 +120,20 @@ ongoing review tasks:
 (finish reading from my side) 3 from PACIS 2023: April 16 2023
 (finish reading from my side) 1 from DIS 2023: April 17 2023
 (finish reading from my side) 1 from ISMAR 2023 journal: April 27 2023; Then, I rejected 4 review requests from ISMAR 2023
+- (paper) on May 2 2023 for INFOCOMP 2023, I reviewed 1 paper/PPT, # of venue: 27, # of papers: 56
+- (paper+venue) on May 23 2023 for ICIS 2023, # of venue: 28, # of papers: 57
+- (paper+venue) on May 27 2023 for ICWSM 2024, # of venue: 29, # of papers: 59
+ongoing review tasks: 
+ June 16 2023, one review for ICIS 2023
+ June 30 2023, two papers for ICWSM 2024
 -->
+
+<!--
+to put ICWSM 2024 on the top of the list
+-->
+
 **Program Committee/Reviewer**: 
-IJCAI 2023, ACM SIGKDD 2023, ACM FAccT 2023, AAAI AI4SG 2023, AAAI ICWSM 2023, TheWebConf (ACM WWW) 2023, TheWebConf CySoc 2023, PACIS 2023, COLLA 2023, CMC(J) 2023, INFOCOMP 2023, ACM CSCW 2023, DIS 2023, ISMAR 2023, IEEE/ACM ASONAM 2023, 
+IJCAI 2023, ACM SIGKDD 2023, ACM FAccT 2023, AAAI AI4SG 2023, AAAI ICWSM 2023, TheWebConf (ACM WWW) 2023, TheWebConf CySoc 2023, PACIS 2023, COLLA 2023, CMC(J) 2023, INFOCOMP 2023, ACM CSCW 2023, DIS 2023, ISMAR 2023, IEEE/ACM ASONAM 2023, ICIS 2023, 
 AAAI ICWSM 2022, ACM CSCW 2022, CySoc 2022, Cyberc 2022, JENRS 2022, CMC(J) 2022, 
 AAAI ICWSM 2021, ACII 2021, 
 AAAI ICWSM 2020, MAISoN 2020, TTO 2020, 
