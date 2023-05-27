@@ -33,7 +33,7 @@ redirect_from:
 - Jan 2023: Invited to be the program committee of IJCAI 2023, ACM SIGKDD 2023, and ACM ICWSM 2023.
 
 # Recent Publications [[Google Scholar](https://scholar.google.com/citations?user=BoGbpiIAAAAJ&hl=en)]
-1. **Bing He**, Mustaque Ahamad, Srijan Kumar, "Reinforcement Learning-based Counter-Misinformation Response Generation: A Case Study of COVID-19 Vaccine Misinformation", [code and data](https://github.com/claws-lab/MisinfoCorrect), **ACM Web Conference(ACM WWW) 2023** (Acceptance Rate: 365/1900=19.2%)
+1. **Bing He**, Mustaque Ahamad, Srijan Kumar, "Reinforcement Learning-based Counter-Misinformation Response Generation: A Case Study of COVID-19 Vaccine Misinformation", [code and data](https://github.com/claws-lab/MisinfoCorrect), **ACM Web Conference (ACM WWW) 2023** (Acceptance Rate: 365/1900=19.2%)
 2. Yingchen Ma, **Bing He**, Nathan Subrahmanian, Srijan Kumar, "Characterizing and Predicting Social Correction on Twitter", [code and data](https://github.com/claws-lab/social-correction-twitter), **The ACM Web Science Conference 2023**
 <!-- 35/97=36.1% -->
 3. **Bing He**, Mustaque Ahamad, Srijan Kumar, "PETGEN: Personalized Text Generation Attack on Deep
