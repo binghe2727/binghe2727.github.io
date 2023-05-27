@@ -53,7 +53,7 @@ Projects:
 
 
 
-# Professional Experiences
+# Internship Experiences
 <!--
 - 2019.08 - Present: **Georgia Institute of Technology**, Atlanta, Georgia
   * **Graduate Research Assistant**, School of Computer Science
