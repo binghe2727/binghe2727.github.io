@@ -11,22 +11,41 @@ redirect_from:
 
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-
-Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Ph.D in Computer Science, Georgia Institute of Technology, 2019-2024 (expected)
+* M.S. in Computer Science, University of Macau, 2016-2019
+* B.S. in Electronic Engineering, University of Electronic Science and Technology of China, 2012-2016
   
+Internship experience
+======
+- 2023.05 - 2023.08: **Amazon**, Palo Alto, California
+  * **Applied Scientist Intern**, Query Understanding Team, Amazon Search/A9.com
+  * Hosts: Ms. Sreyash Nag, Dr. Limeng Cui, Dr. Zheng Li
+- 2022.05 - 2022.08: **Amazon**, San Diego, California
+  * **Applied Scientist Intern**, Machine Learning Accelerator Team, SPS
+  <!--* Project: Buyer Risk Assessment by Node Representation Learning using Dynamic Graph Neural Network-->
+  * Hosts: Dr. Na Zhang, Mentor, Dr. Shobeir Fakhraei, Mr. Akshay Kulkarni
+- 2021.05 - 2021.08: **Amazon**, San Diego, California
+  * **Applied Scientist Intern**, Machine Learning Accelerator Team, SPS
+  <!--* Project: Buyer and Seller Node Fraud Detection by Graph Neural Network-->
+  * Hosts: Dr. Christopher Jones, Ms. Veena Padmanabhan, Dr. Hyun Ah Song
+
+
+<!---
+
+Research experience
+======
+- 2019.08 - present: **Amazon**, Palo Alto, California
+  * **Applied Scientist Intern**, Query Understanding Team, Amazon Search/A9.com
+  * Hosts: Ms. Sreyash Nag, Dr. Limeng Cui, Dr. Zheng Li
+- 2022.05 - 2022.08: **Amazon**, San Diego, California
+  * **Applied Scientist Intern**, Machine Learning Accelerator Team, SPS
+  <!--* Project: Buyer Risk Assessment by Node Representation Learning using Dynamic Graph Neural Network-->
+  * Hosts: Dr. Na Zhang, Mentor, Dr. Shobeir Fakhraei, Mr. Akshay Kulkarni
+- 2021.05 - 2021.08: **Amazon**, San Diego, California
+  * **Applied Scientist Intern**, Machine Learning Accelerator Team, SPS
+  <!--* Project: Buyer and Seller Node Fraud Detection by Graph Neural Network-->
+  * Hosts: Dr. Christopher Jones, Ms. Veena Padmanabhan, Dr. Hyun Ah Song
+
 Skills
 ======
 * Skill 1
@@ -57,3 +76,8 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+-->
+
+
+
+
