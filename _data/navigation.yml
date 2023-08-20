@@ -2,5 +2,10 @@
 main:
   - title: "CV"
     url: /cv/
-    
+  - title: "Projects"
+    url: /about/
+  - title: "Publications"
+    url: /about/
+  - title: "Contact"
+    url: /about/
 

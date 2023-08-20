@@ -13,8 +13,9 @@ Education
 ======
 * Ph.D in Computer Science, Georgia Institute of Technology, Aug 2019 - May 2024 (expected/flexible)
   - Advisors: [Prof. Srijan Kumar](https://faculty.cc.gatech.edu/~srijan/) and [Prof. Mustaque Ahamad](https://www.cc.gatech.edu/people/mustaque-ahamad)
+  - Research Areas: Machine Learning, Natural Language Processing, Deep Learning, Data Science
 * M.S. in Computer Science, University of Macau, Aug 2016 - Jul 2019
-  - Advisor: Prof. [Lionel M. Ni](https://www.cse.ust.hk/~ni/), Vice President of HKUST
+  - GPA: 3.9/4.0, Advisor: Prof. [Lionel M. Ni](https://www.cse.ust.hk/~ni/), Vice President of HKUST
 * B.S. in Electronic Engineering, University of Electronic Science and Technology of China, Aug 2012 - Jul 2016
   - GPA: 3.9/4.0, Rank: 2/160
 
