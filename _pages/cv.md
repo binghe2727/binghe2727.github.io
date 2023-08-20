@@ -11,27 +11,39 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, Georgia Institute of Technology, 2019-2024 (expected)
-* M.S. in Computer Science, University of Macau, 2016-2019
-* B.S. in Electronic Engineering, University of Electronic Science and Technology of China, 2012-2016
+* Ph.D in Computer Science, Georgia Institute of Technology, Aug 2019 - May 2024 (expected/flexible)
+  - Advisors: Prof. Srijan Kumar and Prof. Mustaque Ahamad
+* M.S. in Computer Science, University of Macau, Aug 2016 - Jul 2019
+  - Advisor: Prof. [Lionel M. Ni](https://www.cse.ust.hk/~ni/), Vice President of HKUST
+* B.S. in Electronic Engineering, University of Electronic Science and Technology of China, Aug 2012 - Jul 2016
   
-Internship experience
+Internship Experience
 ======
 - 2023.05 - 2023.08: **Amazon**, Palo Alto, California
-  * **Applied Scientist Intern**, Query Understanding Team, Amazon Search/A9.com
+  * **Applied Scientist Intern**, Search Mission Understanding Team, Amazon Search/A9.com
   * Hosts: Ms. Sreyash Nag, Dr. Limeng Cui, Dr. Zheng Li
 - 2022.05 - 2022.08: **Amazon**, San Diego, California
   * **Applied Scientist Intern**, Machine Learning Accelerator Team, SPS
-  <!--* Project: Buyer Risk Assessment by Node Representation Learning using Dynamic Graph Neural Network-->
   * Hosts: Dr. Na Zhang, Mentor, Dr. Shobeir Fakhraei, Mr. Akshay Kulkarni
 - 2021.05 - 2021.08: **Amazon**, San Diego, California
   * **Applied Scientist Intern**, Machine Learning Accelerator Team, SPS
-  <!--* Project: Buyer and Seller Node Fraud Detection by Graph Neural Network-->
   * Hosts: Dr. Christopher Jones, Ms. Veena Padmanabhan, Dr. Hyun Ah Song
 
+Research Experience
+======
+- 2019.08 - Present: **Georgia Institute of Technology**, Atlanta, Georgia
+  - **Gradudate Research Assistant**, School of Computer Science
+  - Advisors: [Prof. Srijan Kumar](https://faculty.cc.gatech.edu/~srijan/) and [Prof. Mustaque Ahamad](https://www.cc.gatech.edu/people/mustaque-ahamad)
+- 2019.01 - 2019.07: **Hong Kong University of Science and Technology**, Clear Water Bay, Hong Kong
+  - **Gradudate Research Assistant**, Department of Computer Science
+  - Advisors: Prof. Lei Chen
+- 2016.08 - 2019.07: **Hong Kong University of Science and Technology**, China
+  - **Gradudate Research Assistant**, Fork Ying Tung Graduate School
+  - Advisors: Prof. Lionel M. Ni and Dr. Min Gao
 
-<!---
 
+
+<!--
 Research experience
 ======
 - 2019.08 - present: **Amazon**, Palo Alto, California
@@ -39,12 +51,15 @@ Research experience
   * Hosts: Ms. Sreyash Nag, Dr. Limeng Cui, Dr. Zheng Li
 - 2022.05 - 2022.08: **Amazon**, San Diego, California
   * **Applied Scientist Intern**, Machine Learning Accelerator Team, SPS
-  <!--* Project: Buyer Risk Assessment by Node Representation Learning using Dynamic Graph Neural Network-->
-  * Hosts: Dr. Na Zhang, Mentor, Dr. Shobeir Fakhraei, Mr. Akshay Kulkarni
+ Project: Buyer Risk Assessment by Node Representation Learning using Dynamic Graph Neural Network
+ 
+Project: Buyer Risk Assessment by Node Representation Learning using Dynamic Graph Neural Network
+
+* Hosts: Dr. Na Zhang, Mentor, Dr. Shobeir Fakhraei, Mr. Akshay Kulkarni
 - 2021.05 - 2021.08: **Amazon**, San Diego, California
-  * **Applied Scientist Intern**, Machine Learning Accelerator Team, SPS
-  <!--* Project: Buyer and Seller Node Fraud Detection by Graph Neural Network-->
-  * Hosts: Dr. Christopher Jones, Ms. Veena Padmanabhan, Dr. Hyun Ah Song
+
+Project: Buyer and Seller Node Fraud Detection by Graph Neural Network
+
 
 Skills
 ======
@@ -77,6 +92,10 @@ Service and leadership
 ======
 * Currently signed in to 43 different slack teams
 -->
+
+
+
+
 
 
 
