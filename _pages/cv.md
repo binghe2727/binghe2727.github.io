@@ -12,11 +12,12 @@ redirect_from:
 Education
 ======
 * Ph.D in Computer Science, Georgia Institute of Technology, Aug 2019 - May 2024 (expected/flexible)
-  - Advisors: Prof. Srijan Kumar and Prof. Mustaque Ahamad
+  - Advisors: [Prof. Srijan Kumar](https://faculty.cc.gatech.edu/~srijan/) and [Prof. Mustaque Ahamad](https://www.cc.gatech.edu/people/mustaque-ahamad)
 * M.S. in Computer Science, University of Macau, Aug 2016 - Jul 2019
   - Advisor: Prof. [Lionel M. Ni](https://www.cse.ust.hk/~ni/), Vice President of HKUST
 * B.S. in Electronic Engineering, University of Electronic Science and Technology of China, Aug 2012 - Jul 2016
-  
+  - GPA: 3.9/4.0, Rank: 2/160
+
 Internship Experience
 ======
 - 2023.05 - 2023.08: **Amazon**, Palo Alto, California
@@ -41,6 +42,11 @@ Research Experience
   - **Gradudate Research Assistant**, Fork Ying Tung Graduate School
   - Advisors: Prof. Lionel M. Ni and Dr. Min Gao
 
+Awards
+======
+- Best Paper Nomination Award, ACM Web Conference, 2023
+- Outstanding Bachelor Graduate Student, University of Electronic Science and Technology of China, 2016
+- National Scholarship (for top 1\%), Ministry of Education of China, 2013 and 2014
 
 
 <!--
