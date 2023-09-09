@@ -15,7 +15,7 @@ Education
   - Advisors: [Prof. Srijan Kumar](https://faculty.cc.gatech.edu/~srijan/) and [Prof. Mustaque Ahamad](https://www.cc.gatech.edu/people/mustaque-ahamad)
   - Research Areas: Machine Learning, Natural Language Processing, Deep Learning, Data Science
 * M.S. in Computer Science, University of Macau, Aug 2016 - Jul 2019
-  - GPA: 3.9/4.0, Advisor: Prof. [Lionel M. Ni](https://www.cse.ust.hk/~ni/), Vice President of HKUST
+  - GPA: 3.9/4.0, Advisor: Prof. [Lionel M. Ni](https://www.cse.ust.hk/~ni/), Vice President of Hong Kong University of Science and Technology (HKUST)
 * B.S. in Electronic Engineering, University of Electronic Science and Technology of China, Aug 2012 - Jul 2016
   - GPA: 3.9/4.0, Rank: 2/160
 
@@ -26,7 +26,7 @@ Internship Experience
   * Hosts: Ms. Sreyash Nag, Dr. Limeng Cui, Dr. Zheng Li
 - 2022.05 - 2022.08: **Amazon**, San Diego, California
   * **Applied Scientist Intern**, Machine Learning Accelerator Team, SPS
-  * Hosts: Dr. Na Zhang, Mentor, Dr. Shobeir Fakhraei, Mr. Akshay Kulkarni
+  * Hosts: Dr. Na Zhang, Dr. Shobeir Fakhraei, Mr. Akshay Kulkarni
 - 2021.05 - 2021.08: **Amazon**, San Diego, California
   * **Applied Scientist Intern**, Machine Learning Accelerator Team, SPS
   * Hosts: Dr. Christopher Jones, Ms. Veena Padmanabhan, Dr. Hyun Ah Song
