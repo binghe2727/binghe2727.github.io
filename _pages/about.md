@@ -149,11 +149,13 @@ Goal: at least 50 review records for my future development
 - (venue + paper) in July 2023, ASONAM 23, I reviewed 6 papers, # of venue: 30, # of papers: 66
 - (venue + paper) on Sep 9 2023, CyberC-2023, I reviewed 3 papers, # of venue: 31, # of papers: 69
 - (venue + paper) on Sep 16 2023, EPJ Data Science, I reviewed 1 paper, # of venue: 32, # of papers: 70
+- (venue + paper) on Oct 14 2023, ICWSM 2024, I reviewed 3 paper, # of venue: 32, # of papers: 73
+- (venue + paper) on Nov 7 2023, SDM 2024, I reviewed 3 paper, # of venue: 33, # of papers: 76
 ongoing review tasks: 
-- To add SDM 2024 to serve as the PC, waiting for the paper
-1. for ICWSM 2024, I got 3 papers for reviewing. Deadline Oct 28, 2023
+- WWW 2024, I have 6 papers, deadline Nov 24, 2023
 
-- To add ICWSM 2024 to serve as the PC, waiting for the paper
+for 2024: 
+- To add ICWSM 2024, WWW 2024
 -->
 <!--
 to put ICWSM 2024, China-C 2023, EPJ Data Science Journal to the list
