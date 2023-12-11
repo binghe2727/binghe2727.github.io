@@ -13,7 +13,7 @@ author_profile: true
 {% include base_path %}
 -->
 
-# Recent Papers [[Google Scholar](https://scholar.google.com/citations?user=BoGbpiIAAAAJ&hl=en)]
+## Recent Papers [[Google Scholar](https://scholar.google.com/citations?user=BoGbpiIAAAAJ&hl=en)]
 1. **Bing He**, Yibo Hu, Yeon-Chang Lee, Soyoung Oh, Gaurav Verma, Srijan Kumar, "A Survey on the Role of Crowds in Combating Online Misinformation: Annotators, Evaluators, and Creators", [paper collections](https://github.com/claws-lab/awesome-crowd-combat-misinformation), arXiv preprint arXiv:2310.02095 2023
 2. **Bing He**, Mustaque Ahamad, Srijan Kumar, "Reinforcement Learning-based Counter-Misinformation Response Generation: A Case Study of COVID-19 Vaccine Misinformation", [code and data](https://github.com/claws-lab/MisinfoCorrect), **ACM Web Conference (ACM WWW) 2023** (Acceptance Rate: 365/1900=19.2%)
 3. Yingchen Ma, **Bing He**, Nathan Subrahmanian, Srijan Kumar, "Characterizing and Predicting Social Correction on Twitter", [code and data](https://github.com/claws-lab/social-correction-twitter), **The ACM Web Science Conference 2023**
