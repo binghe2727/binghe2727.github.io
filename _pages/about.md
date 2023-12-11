@@ -40,13 +40,12 @@ Document-level Event Extraction and Event Representation
 Before joining Georgia Tech, I was advised by [Prof. Lionel M. Ni](https://www.cse.ust.hk/~ni/), [Prof. Lei Chen](https://cse.hkust.edu.hk/~leichen/) and Dr. Min Gao 
   at the Hong Kong University of Science and Technology. 
   I got my bachelor from the University of Electronic Science and Technology of China.
-
--->
-
-
 # Recent Updates
 - Jan 2023: One paper accepted to ACM WWW 2023.
 - Jan 2023: Invited to be the program committee of IJCAI 2023, ACM SIGKDD 2023, and ACM ICWSM 2023.
+
+-->
+
 
 # Selected Publications [[Google Scholar](https://scholar.google.com/citations?user=BoGbpiIAAAAJ&hl=en)]
 1. **Bing He**, Mustaque Ahamad, Srijan Kumar, "Reinforcement Learning-based Counter-Misinformation Response Generation: A Case Study of COVID-19 Vaccine Misinformation", [code and data](https://github.com/claws-lab/MisinfoCorrect), **ACM Web Conference (ACM WWW) 2023** (Acceptance Rate: 365/1900=19.2%)
