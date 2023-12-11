@@ -4,7 +4,7 @@ title: "Projects"
 permalink: /projects/
 author_profile: true
 ---
-## Selected PhD Research Projects
+## Selected Research Projects
 - Large Language Models for Controllable Text Generation via Reinforcement Learning
   * Advior: Prof. Mustaque Ahamad, and Prof. Srijan Kumar
   * Research output: ACM WWW'23 [code and data](https://github.com/claws-lab/MisinfoCorrect)
