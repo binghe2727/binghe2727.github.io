@@ -89,11 +89,11 @@ Projects:
 - 2022.05 - 2022.08: **Amazon**, San Diego, California
   * **Applied Scientist Intern**, Machine Learning Accelerator Team, SPS
   <!--* Project: Buyer Risk Assessment by Node Representation Learning using Dynamic Graph Neural Network-->
-  * Hosts: Dr. Na Zhang, Dr. Shobeir Fakhraei, Mr. Akshay Kulkarni
+  * Hosts: Dr. Shobeir Fakhraei, Mr. Akshay Kulkarni, Dr. Na Zhang, Dr. Chris Jones
 - 2021.05 - 2021.08: **Amazon**, San Diego, California
   * **Applied Scientist Intern**, Machine Learning Accelerator Team, SPS
   <!--* Project: Buyer and Seller Node Fraud Detection by Graph Neural Network-->
-  * Hosts: Dr. Christopher Jones, Ms. Veena Padmanabhan, Dr. Hyun Ah Song
+  * Hosts: Ms. Veena Padmanabhan, Dr. Hyun Ah Song, Dr. Na Zhang, Dr. Chris Jones
 
 
 
