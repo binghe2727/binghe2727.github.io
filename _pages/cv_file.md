@@ -1,7 +1,6 @@
 ---
-layout: archive
-title: "Curriculum Vitae (PDF)” 
 permalink: /cv_file/
+title: "Curriculum Vitae (PDF)” 
 author_profile: true
 ---
 
