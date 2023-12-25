@@ -1,6 +1,5 @@
 ---
 layout: archive
-title: "CV-file"
 permalink: /cv_file/
 author_profile: true
 ---
