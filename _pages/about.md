@@ -155,6 +155,7 @@ ongoing review tasks:
 - COLINE 2024, I have 3 papers, deadline Jan 5 2023
 for 2024: 
 - To add ICWSM 2024, WWW 2024
+- Dec 21 2023, got the invitation for IJCAI 2024
 -->
 <!--
 to put ICWSM 2024, China-C 2023, EPJ Data Science Journal to the list
