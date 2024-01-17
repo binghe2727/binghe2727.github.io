@@ -152,6 +152,7 @@ Goal: at least 50 review records for my future development
 - (venue + paper) on Nov 7 2023, SDM 2024, I reviewed 3 paper, # of venue: 33, # of papers: 76
 - (venue + paper) on Nov 23 2023, WWW 2024, I reviewed 6 paper, # of venue: 34, # of papers: 82
 - (venue + paper) on Dec 27 2023, COLING 2024, I reviewed 3 paper, # of venue: 35, # of papers: 85
+- (paper) on Jan 14 2024, COLING 2024, I reviewed another 1 paper, # of venue: 35, # of papers: 86
 ongoing review tasks: 
 for 2024: 
 - To add ICWSM 2024, WWW 2024
