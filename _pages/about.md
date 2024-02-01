@@ -48,13 +48,14 @@ Before joining Georgia Tech, I was advised by [Prof. Lionel M. Ni](https://www.c
 
 
 # Selected Publications [[Google Scholar](https://scholar.google.com/citations?user=BoGbpiIAAAAJ&hl=en)]
-1. **Bing He**, Mustaque Ahamad, Srijan Kumar, "Reinforcement Learning-based Counter-Misinformation Response Generation: A Case Study of COVID-19 Vaccine Misinformation", [code and data](https://github.com/claws-lab/MisinfoCorrect), **ACM Web Conference (ACM WWW) 2023** (Acceptance Rate: 365/1900=19.2%)
-2. **Bing He**, Mustaque Ahamad, Srijan Kumar, "PETGEN: Personalized Text Generation Attack on Deep
+1. **Bing He**, Sreyashi Nag, Limeng Cui, Suhang Wang, Zheng Li, Rahul Goutam, Zhen Li and Haiyang Zhang, "Hierarchical Query Classification in E-commerce Search", **ACM Web Conference (ACM WWW) 2024** (Acceptance Rate: 21.3%)
+2. **Bing He**, Mustaque Ahamad, Srijan Kumar, "Reinforcement Learning-based Counter-Misinformation Response Generation: A Case Study of COVID-19 Vaccine Misinformation", [code and data](https://github.com/claws-lab/MisinfoCorrect), **ACM Web Conference (ACM WWW) 2023** (Acceptance Rate: 365/1900=19.2%)
+3. **Bing He**, Mustaque Ahamad, Srijan Kumar, "PETGEN: Personalized Text Generation Attack on Deep
 Sequence Embedding-based Classification Models", [code and data](https://github.com/srijankr/petgen/), **ACM SIGKDD 2021** (Acceptance Rate: 238/1541=15.4%)
-3. **Bing He**, Caleb Ziems, Sandeep Soni, Naren Ramakrishnan, Diyi Yang, Srijan Kumar, "Racism is a
+4. **Bing He**, Caleb Ziems, Sandeep Soni, Naren Ramakrishnan, Diyi Yang, Srijan Kumar, "Racism is a
 virus: Anti-asian Hate and Counterspeech in Social Media during the Covid-19 Crisis", [code and data](https://www.dropbox.com/sh/g9uglvl3cd61k69/AACEk2O2BEKwRTcGthgROOcWa?dl=0), **IEEE/ACM ASONAM 2021**
 <!-- 22/118=18.6% -->
-4. Nicholas Micallef∗, **Bing He∗**, Srijan Kumar, Mustaque Ahamad, Nasir Memon, "The Role of the Crowd
+5. Nicholas Micallef∗, **Bing He∗**, Srijan Kumar, Mustaque Ahamad, Nasir Memon, "The Role of the Crowd
 in Countering Misinformation: A Case Study of the COVID-19 Infodemic", [code and data](https://sites.google.com/view/counter-covid19-misinformation), **IEEE BigData 2020 (∗ equal contribution)**
 <!-- 83/535=15.4% -->
 
