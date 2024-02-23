@@ -10,7 +10,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Computer Science, Georgia Institute of Technology, Aug 2019 - Apr 2024 (expected/flexible)
+* Ph.D in Computer Science, Georgia Institute of Technology, Aug 2019 - May 2024
   - Advisors: [Prof. Srijan Kumar](https://faculty.cc.gatech.edu/~srijan/) and [Prof. Mustaque Ahamad](https://www.cc.gatech.edu/people/mustaque-ahamad)
   - Research Areas: Machine Learning, Natural Language Processing, Deep Learning, Data Science
 * M.S. in Computer Science, University of Macau, Aug 2016 - Jul 2019
