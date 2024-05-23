@@ -167,5 +167,5 @@ to put ICWSM 2024, China-C 2023, EPJ Data Science Journal to the list
 **Program Committee/Reviewer**: 
 IJCAI 2023, ACM SIGKDD 2023, ACM FAccT 2023, AAAI AI4SG 2023, AAAI ICWSM 2023, TheWebConf (ACM WWW) 2023, TheWebConf CySoc 2023, PACIS 2023, COLLA 2023, CMC(J) 2023, INFOCOMP 2023, ACM CSCW 2023, DIS 2023, ISMAR 2023, IEEE/ACM ASONAM 2023,AAAI ICWSM 2022, ACM CSCW 2022, CySoc 2022, Cyberc 2022, JENRS 2022, CMC(J) 2022, AAAI ICWSM 2021, ACII 2021, AAAI ICWSM 2020, MAISoN 2020, TTO 2020, IEEE ICPADS 2018, ACM CIKM 2017
 
-### I am open to peer reviews in the field of machine learning, natural language processing, and graph mining with its applications in misinformation, fake news, social network analysis, and etc.
-### I am always open to collaborations, both academia and industry. If you have some interesting ideas or want to have a chat, feel free to contact me! Let's work together to create a safer online ecosystem.
+
+### I am always open to collaborations, both academia and industry. If you have some interesting ideas or want to have a chat, feel free to contact me! Let's make it.
