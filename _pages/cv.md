@@ -32,7 +32,7 @@ Internship Experience
 
 Research Experience
 ======
-- 2019.08 - Present: **Georgia Institute of Technology**, Atlanta, Georgia
+- 2019.08 - 2024.05: **Georgia Institute of Technology**, Atlanta, Georgia
   - **Gradudate Research Assistant**, School of Computer Science
   - Advisors: [Prof. Srijan Kumar](https://faculty.cc.gatech.edu/~srijan/) and [Prof. Mustaque Ahamad](https://www.cc.gatech.edu/people/mustaque-ahamad)
 - 2019.01 - 2019.07: **Hong Kong University of Science and Technology**, Clear Water Bay, Hong Kong
