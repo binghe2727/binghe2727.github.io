@@ -20,13 +20,13 @@ Education
 
 Internship Experience
 ======
-- 2023.05 - 2023.08: **Amazon**, Palo Alto, California
+- 2023.05 - 2023.08: **Amazon Search**, Palo Alto, California
   * **Applied Scientist Intern**, Search Mission Understanding Team, Amazon Search/A9.com
   * Hosts: Ms. Sreyash Nag, Dr. Limeng Cui, Dr. Zheng Li
-- 2022.05 - 2022.08: **Amazon**, San Diego, California
+- 2022.05 - 2022.08: **Amazon Retail**, San Diego, California
   * **Applied Scientist Intern**, Machine Learning Accelerator Team, SPS
   * Hosts: Dr. Shobeir Fakhraei, Mr. Akshay Kulkarni, Dr. Na Zhang, Dr. Chris Jones
-- 2021.05 - 2021.08: **Amazon**, San Diego, California
+- 2021.05 - 2021.08: **Amazon Retail**, San Diego, California
   * **Applied Scientist Intern**, Machine Learning Accelerator Team, SPS
   * Hosts: Ms. Veena Padmanabhan, Dr. Hyun Ah Song, Dr. Na Zhang, Dr. Chris Jones
 
@@ -44,6 +44,7 @@ Research Experience
 
 Awards
 ======
+- Outstanding Reviewer Award, ACM Web Conference, 2024
 - Best Paper Nomination Award, ACM Web Conference, 2023
 - Outstanding Bachelor Graduate Student, University of Electronic Science and Technology of China, 2016
 - National Scholarship (for top 1\%), Ministry of Education of China, 2013 and 2014
