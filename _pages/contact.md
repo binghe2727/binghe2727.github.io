@@ -6,8 +6,7 @@ author_profile: true
 redirect_from:
   - /contact
 ---
-School of Computer Science, Georgia Institute of Technologyy<br>
-756 West Peachtree Street Northwest, Atlanta, GA 30308<br>
+2795 Augustine Dr, Santa Clara, CA 95054<br>
 Email: bhe46[at]gatech.edu
 
 
