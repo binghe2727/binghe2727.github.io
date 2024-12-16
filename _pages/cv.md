@@ -42,13 +42,13 @@ Research Experience
   - **Gradudate Research Assistant**, Fork Ying Tung Graduate School
   - Advisors: Prof. Lionel M. Ni and Dr. Min Gao
 
-Awards
+Award
 ======
 - Best Reviewer Award, International AAAI Conference on Web and Social Media, 2024
 - Outstanding Reviewer Award, ACM Web Conference, 2024
 - Best Paper Nomination Award, ACM Web Conference, 2023
 - Outstanding Bachelor Graduate Student, University of Electronic Science and Technology of China, 2016
-- National Scholarship (for top 1\%), Ministry of Education of China, 2013 and 2014
+- National Scholarship (for top 1%), Ministry of Education of China, 2013 and 2014
 
 
 

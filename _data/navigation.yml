@@ -4,9 +4,9 @@ main:
     url: /
   - title: "CV"
     url: /cv/
-  - title: "Projects"
+  - title: "Project"
     url: /projects/
-  - title: "Publications"
+  - title: "Publication(Code&Data)"
     url: /publications/
   - title: "Contact"
     url: /contact/

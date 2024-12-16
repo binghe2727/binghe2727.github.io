@@ -12,7 +12,7 @@ author_profile: true
 {% include base_path %}
 -->
 
-# Recent Papers [[Google Scholar](https://scholar.google.com/citations?user=BoGbpiIAAAAJ&hl=en)]
+# Recent Papers(Code&Data) [[Google Scholar](https://scholar.google.com/citations?user=BoGbpiIAAAAJ&hl=en)]
 1. **Bing He**, Sreyashi Nag, Limeng Cui, Suhang Wang, Zheng Li, Rahul Goutam, Zhen Li and Haiyang Zhang, "Hierarchical Query Classification in E-commerce Search", **ACM Web Conference (ACM WWW) 2024** (Acceptance Rate: 21.3%)
 2. **Bing He**, Yingchen Ma, Mustaque Ahamad, Srijan Kumar, "Corrective or Backfire: Characterizing and Predicting User Response to Social Correction", The ACM Web Science Conference 2024, [code and data](https://github.com/claws-lab/response-to-social-correction), **ACM WebSci 2024**
 3. **Bing He**, Yibo Hu, Yeon-Chang Lee, Soyoung Oh, Gaurav Verma, Srijan Kumar, "A Survey on the Role of Crowds in Combating Online Misinformation: Annotators, Evaluators, and Creators", [paper collections](https://github.com/claws-lab/awesome-crowd-combat-misinformation), [survey](/files/he-survey23.pdf), **ACM Transactions on Knowledge Discovery from Data (TKDD) 2024** 
