@@ -13,6 +13,8 @@ redirect_from:
 - Contact: bhe46@gatech.edu
 ### I am always available for academic collaborations from academia and industry. Please feel free to contact me if you have research ideas or industry collaborations. I am more than happy to discuss and collaborate with you.
 
+### Our AWS Amazon Q Developer/CodeLLM is always hiring! If you are interested in working as an Applied Scientist intern or full-time, please feel free to reach out to me.
+
 <!--
 
 ranging from Multi-task Learning, Reinforcement Learning, Few-shot Learning, Representation learning to Text Classification and Text Generation.
