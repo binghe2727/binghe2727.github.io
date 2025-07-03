@@ -8,15 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-- I am an Applied Scientist II at AWS Amazon Q Developer/CodeLLM team since May 2024. Before joining AWS, I obtained CS PhD from [Georgia Institute of Technology](https://www.gatech.edu/) specializing in Machine Learning and was co-advised by [Prof. Srijan Kumar](https://faculty.cc.gatech.edu/~srijan/) and [Prof. Mustaque Ahamad](https://www.cc.gatech.edu/people/mustaque-ahamad).
-- My research interests include **Machine Learning**, **Natural Language Processing (NLP)**, **Large Language Model**, and **Deep Learning**. Especially at AWS, I work on large language models (LLM) for code ranging from fundamental LLM reasoning and planning to agentic code generation, documentation, transformation, and evaluation.
+- I am an Applied Scientist II at Amazon since May 2024. Before joining Amazon, I obtained CS PhD from [Georgia Institute of Technology](https://www.gatech.edu/) specializing in Machine Learning and was co-advised by [Prof. Srijan Kumar](https://faculty.cc.gatech.edu/~srijan/) and [Prof. Mustaque Ahamad](https://www.cc.gatech.edu/people/mustaque-ahamad).
+- My research interests include **Machine Learning**, **Natural Language Processing (NLP)**, **Large Language Model**, and **Deep Learning**. Especially at Amazon, I work on large language models (LLM) post-training including reasoning, planning, evaluation, and alignment.
 - Contact: bhe46@gatech.edu
 
-
-
 ### I am always available for academic collaborations from academia and industry. Please feel free to contact me if you have research ideas or industry collaborations. I am more than happy to discuss and collaborate with you.
-
-### Our AWS Amazon Q Developer/CodeLLM is always hiring! If you are interested in working as an Applied Scientist intern or full-time, please feel free to reach out to me.
 
 <!--
 
@@ -150,7 +146,7 @@ to put ICWSM 2024, China-C 2023, EPJ Data Science Journal to the list
 -->
 
 **Program Committee/Reviewer**: 
-IJCAI, ACM SIGKDD, ACM FAccT, AAAI, AAAI ICWSM, TheWebConf (ACM WWW), ACM CSCW, IEEE/ACM ASONAM, ACM CIKM
+ACL-COLING, IJCAI, ACM SIGKDD, AAAI, AAAI ICWSM, TheWebConf (ACM WWW), ACM CSCW, IEEE/ACM ASONAM, ACM CIKM
 
 
 
