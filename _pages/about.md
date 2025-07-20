@@ -44,7 +44,7 @@ Before joining Georgia Tech, I was advised by [Prof. Lionel M. Ni](https://www.c
 
 
 # Selected Publications [[Google Scholar](https://scholar.google.com/citations?user=BoGbpiIAAAAJ&hl=en)]
-1. **Bing He**, Sreyashi Nag, Limeng Cui, Suhang Wang, Zheng Li, Rahul Goutam, Zhen Li and Haiyang Zhang, "Hierarchical Query Classification in E-commerce Search", **ACM Web Conference (ACM WWW) 2024** (Acceptance Rate: 21.3%)
+1. **Bing He**, Sreyashi Nag, Limeng Cui, Suhang Wang, Zheng Li, Rahul Goutam, Zhen Li and Haiyang Zhang, "Hierarchical Query Classification in E-commerce Search", [paper](https://arxiv.org/pdf/2403.06021), **ACM Web Conference (ACM WWW) 2024** (Acceptance Rate: 21.3%)
 2. **Bing He**, Mustaque Ahamad, Srijan Kumar, "Reinforcement Learning-based Counter-Misinformation Response Generation: A Case Study of COVID-19 Vaccine Misinformation", [code and data](https://github.com/claws-lab/MisinfoCorrect), **ACM Web Conference (ACM WWW) 2023** (Acceptance Rate: 365/1900=19.2%)
 3. **Bing He**, Mustaque Ahamad, Srijan Kumar, "PETGEN: Personalized Text Generation Attack on Deep
 Sequence Embedding-based Classification Models", [code and data](https://github.com/srijankr/petgen/), **ACM SIGKDD 2021** (Acceptance Rate: 238/1541=15.4%)
