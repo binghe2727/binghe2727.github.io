@@ -10,7 +10,7 @@ redirect_from:
 
 - I am an Applied Scientist II at Amazon since May 2024. Before joining Amazon, I obtained CS PhD from [Georgia Institute of Technology](https://www.gatech.edu/) specializing in Machine Learning and was co-advised by [Prof. Srijan Kumar](https://faculty.cc.gatech.edu/~srijan/) and [Prof. Mustaque Ahamad](https://www.cc.gatech.edu/people/mustaque-ahamad).
 - My research interests include **Machine Learning**, **Natural Language Processing (NLP)**, **Large Language Model**, and **Deep Learning**. Especially at Amazon, I work on large language models (LLM) post-training including reasoning, planning, evaluation, and alignment.
-- Contact: bhe46@gatech.edu
+- Contact: bing.he[at]cc.gatech.edu
 
 ### I am always available for academic collaborations from academia and industry. Please feel free to contact me if you have research ideas or industry collaborations. I am more than happy to discuss and collaborate with you.
 
