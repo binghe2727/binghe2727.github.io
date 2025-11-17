@@ -42,6 +42,8 @@ Before joining Georgia Tech, I was advised by [Prof. Lionel M. Ni](https://www.c
 
 -->
 
+# Selected Blogs
+1. **Bing He**, Rui Sun, Zhan Shi, Building and Aligning LLM using User Data and RL, [Blog link](https://binghe2727.github.io/Building-and-Aligning-LLM-using-User-Data-and-RL/), November 2025
 
 # Selected Publications [[Google Scholar](https://scholar.google.com/citations?user=BoGbpiIAAAAJ&hl=en)]
 1. **Bing He**, Sreyashi Nag, Limeng Cui, Suhang Wang, Zheng Li, Rahul Goutam, Zhen Li and Haiyang Zhang, "Hierarchical Query Classification in E-commerce Search", [paper](https://arxiv.org/pdf/2403.06021), **ACM Web Conference (ACM WWW) 2024** (Acceptance Rate: 21.3%)
